@@ -1,0 +1,134 @@
+######################## default configuration ####################
+baseURL = "/"
+title = "Horizons de la philologie numérique"
+#theme = ""
+#themesDir = "../.."
+# post pagination
+paginate = "3"
+# post excerpt
+summaryLength = "10"
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# langues
+# disable language
+disableLanguages = [] # desable language from here
+# fr par défaut
+defaultContentLanguage = "fr"
+languageCode = "fr"
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML"]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+attributes = ""
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+attributes = ""
+[[params.plugins.css]]
+link = "plugins/font-awesome/font-awesome.min.css"
+attributes = ""
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.min.css"
+attributes = ""
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/mixitup/mixitup.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/magnific-popup/magnific-popup.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/syotimer/syotimer.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+attributes = ""
+
+#################### default parameters ################################
+[params]
+logo = "images/empreinte-digitale.png"
+logo_footer = "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/08/logo-fr-1.svg"
+logo_width = "auto"
+# Meta data
+#description = ""
+author = "Mathilde Verstraete, Roch Delannay, Louis-Olivier Brassard, Arilys Jia."
+# contact form action
+contact_form_action = "https://formspree.io/f/xzbweyzn" # contact form works with https://formspree.io
+# copyright
+copyright = "Theme conceived by [Themefisher](https://themefisher.com/), developed by [Gethugothemes](https://gethugothemes.com/) and adapted by [CRCDT](https://ecrituresnumeriques.ca/en)"
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[params.navigation_button]
+enable = false
+label = "S’inscrire"
+icon = "images/icon/ticket.png"
+link = "/"
+
+# Subscription
+[params.subscription]
+enable = false
+#title = "Subscribe to Our Newsletter"
+#content = "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor"
+# mailchimp subsciption
+#mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+#mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+name = ""
+batiment = ""
+location = ""
+metro = ""
+bus = ""
+link = "https://www.openstreetmap.org/#map=16/45.5012/-73.6221&layers=N"
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+
+############################# social site ########################
+[[params.social]]
+title = "facebook"
+icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.facebook.com/ENumeriques"
+
+[[params.social]]
+title = "twitter"
+icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://twitter.com/ENumeriques"
+
+[[params.social]]
+title = "instagram"
+icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://instagram.com/enumeriques?igshid=YmMyMTA2M2Y="

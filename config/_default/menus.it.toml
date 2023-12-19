@@ -1,0 +1,22 @@
+####################### Horizons ##########################
+
+# main menu
+[[main]]
+weight = 1
+name = "Programma"
+url = "programma"
+
+[[main]]
+weight = 2
+name = "Workshops"
+url = "Workshops"
+
+[[main]]
+weight = 3
+name = "Archivi"
+url = "archivi"
+
+[[main]]
+name = "Contatti"
+url = "contatti"
+weight = 4

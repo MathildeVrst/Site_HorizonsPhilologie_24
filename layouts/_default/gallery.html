@@ -1,0 +1,58 @@
+{{ define "main"}}
+
+<section class="section gallery">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="controls">
+					<button type="button" class="control mixitup-control-active" data-filter="all">All</button>
+					{{ $categories := slice }}
+					{{ range .Params.gallery_items }}
+					{{ range .categories }}
+					{{ $categories = $categories | append . }}
+					{{ end }}
+					{{ end }}
+					{{ range ( $categories | uniq ) }}
+					<button type="button" class="control" data-filter=".{{ . | urlize }}">{{ . | humanize }}</button>
+					{{ end }}
+				</div>
+				<div class="gallery-wrapper">
+					{{ range .Params.gallery_items }}
+					<div class="gallery-item mix {{range .categories }}{{. | urlize}} {{ end }}">
+            {{ if .video }}
+            <div class="image-block video-block">
+              <figure class="video image">
+                <video
+                  src="{{ .video }}"
+                  class="img-fluid"
+                  preload="metadata"
+                  controls
+                  {{if .vignette}}poster="{{.vignette}}"{{end}}
+                ></video>
+                <figcaption class="">
+                  {{ .name }}
+                  <br>
+                  <a href="{{ .video }}" target="_blank" title="Ouvrir la vidéo dans un nouvel onglet">Ouvrir la vidéo dans un nouvel onglet <i class="fa fa-external-link"></i></a>
+                </figcaption>
+              </figure>
+            </div>
+						{{ else if .image }}
+						<div class="image-block">
+							<div class="image">
+								<img src="{{ .image | absURL }}" alt="gallery-image" class="img-fluid">
+								<div class="primary-overlay">
+									<a class="image-popup" data-effect="mfp-with-zoom" href="{{ .imagefull | absURL }}"><i
+											class="fa fa-picture-o"></i></a>
+								</div>
+							</div>
+						</div>
+						{{ end }}
+					</div>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+{{ end }}

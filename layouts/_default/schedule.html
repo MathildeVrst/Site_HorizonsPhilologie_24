@@ -1,0 +1,143 @@
+{{ define "main"}}
+
+<!--==============================
+=            Schedule            =
+===============================-->
+{{- if .Params.tab.enable }}
+{{- with .Params.tab }}
+<section class="section schedule">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          <h3>{{.title | markdownify}}</h3>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+        <div class="section-description">
+          <p>{{ .description | markdownify }}</p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <div class="schedule-tab">
+          <ul class="nav nav-pills text-center">
+            {{ range $i,$p:= .tablist }}
+            <li class="nav-item">
+              <a class="nav-link {{if eq $i 0}} active {{end}}" href="#{{.name|urlize}}" data-toggle="pill">
+                {{.name}}
+                <span>{{ .date | markdownify}}</span>
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="schedule-contents bg-schedule">
+          <div class="tab-content" id="pills-tabContent">
+            {{ range $i,$p:= .tablist }}
+            <div class="tab-pane fade {{if eq $i 0}}show active{{end}} schedule-item" id="{{.name | urlize}}">
+              <!-- Headings -->
+              <ul class="m-0 p-0">
+                <li class="headings">
+                  <div class="schedule-time">{{ i18n "Schedule" }}</div>
+                  <div class="speaker">{{ i18n "Topic" }} / {{ i18n "Speaker" }}</div>
+                  <!--
+                  <div class="subject">{{ i18n "Topic" }}</div>
+                  -->
+                </li>
+                <!-- Schedule Details -->
+                {{ range .tablist_items }}
+                <li class="schedule-details">
+                  <div class="schedule-row {{if .pause}}pause-row{{end}}">
+                    <!-- time -->
+                    <div class="schedule-time">
+                      {{if .time}}
+                      <i class="fa fa-clock-o"></i>
+                      <span class="time">{{ .time }}</span>
+                      {{end}}
+                      <br>
+                      {{if .venue}}
+                      <div>
+                        <i class="fa fa-map-marker"></i>
+                        <span class="venue">{{ .venue | markdownify }}</span>
+                      </div>
+                      {{ end }}
+                      {{if .online}}
+                      <div>
+                        <i class="fa fa-desktop"></i>
+                        <span class="online">{{ .online | markdownify }}</span>
+                      </div>
+                      {{ end }}
+                    </div>
+
+                    <!-- Speaker -->
+                    <div class="schedule-content">
+
+                      {{if .pause}}
+                      {{ .pause | markdownify }}
+                      {{else}}
+                      <!-- <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}"> -->
+                      <h5>{{ .subject | markdownify }}</h5>
+                      {{ if .speaker}}
+                      <span class="name">{{.speaker| markdownify}}</span>
+                      {{end}}
+                      {{ if .biography }}
+                      <details>
+                        <summary>Biography</summary>
+                        {{ .biography | markdownify }}
+                      </details>
+                      {{else if .biographie}}
+                      <details>
+                        <summary>Biographie</summary>
+                        {{ .biographie | markdownify }}
+                      </details>
+                      {{else if .biografia}}
+                      <details>
+                        <summary>Biografia</summary>
+                        {{ .biografia | markdownify }}
+                      </details>
+                      {{end}}
+
+                      {{ if .abstract }}
+                      <details>
+                        <summary>Abstract</summary>
+                        {{ .abstract | markdownify }}
+                      </details>
+                      {{else if .résumé}}
+                      <details>
+                        <summary>Résumé</summary>
+                        {{ .résumé | markdownify }}
+                      </details>
+                      {{end}}
+                      
+                      {{end}}
+                    </div>
+                    <!-- Subject -->
+                    <!--
+                    <div class="subject">
+                      <h5>{{ .subject | markdownify }}</h5>
+                      {{ if .abstract }}
+                      <details>
+                        <summary>Abstract</summary>
+                        {{ .abstract | markdownify }}
+                      </details>
+                      {{end}}
+                    </div>
+                    -->
+                  </div>
+                </li>
+                {{ end }}
+              </ul>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!--====  End of Schedule  ====-->
+
+{{ end }}

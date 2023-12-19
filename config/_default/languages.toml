@@ -1,0 +1,41 @@
+
+############### Paramètres du multilingue ###############
+[fr]
+  # français d’abord
+  weight = 1
+  title = "Horizons de la philologie numérique"
+  [fr.params]
+    description = "Site web des Navigations anthologiques (journées d'étude) se déroulant à l'Université de Montréal du 27 octobre au 29 octobre 2022, organisées par la CRCEN."
+    images = [ "/images/featured.png" ]
+    copyright = "Thème conçu par [Themefisher](https://themefisher.com/), développé par [Gethugothemes](https://gethugothemes.com/) et adapté par la [CRCEN](https://ecrituresnumeriques.ca)"
+    name = "Université de Montréal"
+    batiment = "Salle C-6070-9, Pavillon Lionel-Groulx"
+    location = "3150, Rue Jean-Brillant, Montréal (QC) H3T 1N8 Canada"
+    metro = "Ligne bleue, Station Université-de-Montréal"
+    bus = "Ligne 51"
+
+[it]
+  title = "Orizzonti della filologia digitale"
+  weight = 2
+  [it.params]
+    description = "Sito web del convegno 'Orizzonti della filologia digitale. L'Antologia greca per ripensare formati, paradigmi e collaborazioni', che si terrà presso l'Università degli Studi di Napoli Federico II dal 16 al 18 aprile 2024, organizzato congiuntamente dalla CRCEN e dall'UNINA."
+    images = [ "/images/featured.it.png" ]
+    copyright = "Tema disegnato da [Themefisher](https://themefisher.com/), sviluppato da [Gethugothemes](https://gethugothemes.com/) e adattato da [CRCEN](https://ecrituresnumeriques.ca/en)"
+    name = "Université de Montréal"
+    batiment = "Aula C-6070-9, Palazzo Lionel-Groulx"
+    location = "3150, Rue Jean-Brillant, Montréal (QC) H3T 1N8 Canada"
+    metro = "Linea blu, Stazione Université de Montréal"
+    bus = "Linea 51"  
+
+[en]
+  title = "Horizons of digital philology"
+  weight = 2
+  [en.params]
+    description = "Website for the conference 'Horizons of digital philology. The Greek Anthology for rethinking formats, paradigms and collaboration' to be held at the Università degli Studi di Napoli Federico II from April 16 to 18, 2024, and co-organized by the CRCEN and UNINA."
+    images = [ "/images/featured.en.png" ]
+    copyright = "Theme designed by [Themefisher](https://themefisher.com/), developed by [Gethugothemes](https://gethugothemes.com/) and adapted by [CRCEN](https://ecrituresnumeriques.ca/en)"
+    name = "University of Montreal"
+    batiment = "Room C-6070-9, Pavillon Lionel-Groulx"
+    location = "3150, Rue Jean-Brillant, Montréal (QC) H3T 1N8 Canada"
+    metro = "Blue line, Station Université-de-Montréal"
+    bus = "Line 51"

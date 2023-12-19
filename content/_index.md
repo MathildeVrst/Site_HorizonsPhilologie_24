@@ -1,0 +1,88 @@
+---
+# page kind "home" dans Hugo (facultative si le fichier est nommé "_index.md")
+kind: home
+title: "Accueil"
+
+################# Banner ###################
+banner:
+  enable : true
+  heading : "Horizons de la philologie numérique"
+  heading_2 : "L'Anthologie grecque pour repenser [formats], [paradigmes] et [collaboration]"
+  content : "Università degli Studi di Napoli Federico II & Université de Montréal, 16-18 avril 2024"
+  timer:
+    enable : true
+    year : 2024
+    month : 04
+    day : 16
+  button:
+    enable : true
+    label : "Lien Jitsi"
+    link : "https://meet.jit.si/horizons-phil-num-crcen"
+
+
+################# About ###################
+about:
+  enable : true
+  title : "Trois journées d'étude consacrées à l'actualité de la philologie à l'ère du numérique, à partir de l'*Anthologie grecque*"
+  image : "images/sappho.jpg"
+  content : |
+    Les approches numériques sont de plus en plus utilisées dans le champ des études classiques. Alors que cette nouvelle forme de philologie s'attèle à préserver, explorer et interpréter la littérature ancienne, l'adoption du numérique nécessite néanmoins de repenser l'épistémologie de ce champ disciplinaire en évolution. En effet, cette transition vers le numérique ouvre de nouvelles perspectives, non seulement dans notre approche et notre évaluation critique des textes, mais aussi dans la façon dont nous collaborons pour enrichir notre compréhension collective. 
+    Les trois journées d'étude « Horizons de la philologie numérique. L'*Anthologie grecque* pour repenser formats, paradigmes et collaboration » (16-18 avril 2024, Università degli Studi di Napoli Federico II & Université de Montréal) engagera réflexions et discussions sur les méthodologies et motivations qui sous-tendent le choix d'un outil, dans la mesure où ces choix reflètent des conceptions épistémologiques spécifiques ainsi que des besoins distincts. Quelles implications découlent de la rencontre entre des textes millénaires et les environnements numériques complexes ? Comment devrions-nous traiter les données engendrées par les projets issus des *Digital Classics* ? Comment pouvons-nous envisager leur structuration pour les rendre accessibles, les valoriser et les réutiliser ? 
+    Ces questions constituent le cœur des trois journées d'étude « Horizons de la philologie numérique. L'*Anthologie grecque* pour repenser formats, paradigmes et collaboration » (16-18 avril 2024, Università degli Studi di Napoli Federico II & Université de Montréal). L'objectif de cet événement est d'engager une réflexion critique sur les fondements épistémologiques des projets d'édition ou d'étude de textes classiques à l'ère numérique, en se concentrant spécifiquement sur l'étude de cas de l'Anthologie grecque, permettant de valoriser la plateforme et les données issues du projet « Pour une édition numérique et collaborative de l'Anthologie grecque », mené à la Chaire de Recherche du Canada sur les Écritures Numériques depuis 2014. 
+    Les trois journées d'étude seront chacune dédiée à un des trois axes de l'événement. Chaque jour débutera par des conférences et se terminera sur un atelier pratique permettant d'explorer concrètement les concepts discutés et d'appliquer les méthodologies présentées.
+    1. **Paleograohie, HTR et reconstruction numérique** -- À partir d'études de cas, utilisant la reconnaissance de l'écriture manuscrite (HTR), la reconstruction numérique en passant par différentes applications d'intelligence artificielle, cet axe analysera les différentes méthodologies et utilisations pouvant être faites des récentes avancées techniques offrant de nouvelles perspectives pour la préservation et la compréhension du patrimoine classique.
+    2. **Philologie collaborative** -- Cet axe approfondira les questionnements épistémologiques issus des projets collaboratifs faisant appel au domaine des humanités numériques. Il mettra en avant les collaborations interdisciplinaires en analysant comment celles-ci façonnent notre compréhension des textes anciens à l'ère numérique. En examinant les dynamiques de collaboration, cet axe explorera comment les approches plurielles enrichissent la recherche, ouvrant ainsi de nouvelles perspectives et méthodologies pour aborder et interpréter les sources anciennes. 
+    3. **Épistémologie du texte, édition critique des textes classiques** -- Cet axe approfondira les questionnements épistémologiques liés aux choix techniques effectués dans le cadre des éditions de textes classiques. En mettant l'accent sur l'édition critique, il explorera comment ces choix méthodologiques influencent notre compréhension et notre interprétation des textes anciens, examinant comment les décisions éditoriales impactent la transmission, la préservation et la perception des œuvres classiques.
+    
+################# Speaker ###################
+speakers:
+  enable : true
+  title : "Organisateurs"
+  content : | 
+    Chaire de recherche du Canada sur les écritures numériques (Université de Montréal)  
+    Dipartimento di Studi Umanistici (Università degli Studi di Napoli Federico II) 
+  #speaker items are coming from "content/speakers" folder
+
+############ Registration ####################
+registration:
+  enable : true
+  title : "Nous contacter"
+  content : |
+    Pour plus d'informations, nous contacter à mathilde [point] verstraete [arobase] umontreal [point] ca.
+#  form_action : "" 
+# works with formspree.io
+
+############### Sponsors ##################
+sponsors:
+  enable : true
+  title : "Nos partenaires"
+  content : ""
+  sponsor_group:
+  - name : ""
+    sponsor_item:
+    - name : "Université de Montréal" 
+      logo : "static/images/Logo/UdeM.png" 
+      link : "https://www.umontreal.ca/"
+    - name : "Chaire de Recherche du Canada sur les Écritures Numériques"
+      logo : "static/images/Logo/Ecrinum-couleurs.png"
+      link : "https://ecrituresnumeriques.ca/fr/"
+    - name : "Université de Naples Federico II" 
+      logo : "static/images/Logo/UniNa.png" 
+      link : "http://www.unina.it/en_GB/home"
+    - name : "Département des sciences humaines" 
+      logo : "static/images/Logo/DSU.png" 
+      link : "https://www.studiumanistici.unina.it/"
+    #- name : "Chaires de Recherche du Canada"
+    #  logo : "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/07/Chaire-canada-768x358.png"
+    #  link : "https://www.chairs-chaires.gc.ca/home-accueil-fra.aspx"
+    - name : "Conseil de recherches en sciences humaines du Canada"
+      logo : "static/images/Logo/CRSH-reverse.png"
+      link : "https://www.sshrc-crsh.gc.ca/home-accueil-fra.aspx"
+    - name : "Centre de recherche interuniversitaire sur les humanités numériques"
+      logo : "static/images/Logo/crihnLogo.png"
+      link : "https://www.crihn.org/"
+    - name : "Groupe de recherche sur les éditions critiques en contexte numérique"
+      logo : "static/images/Logo/Gren_transparent.jpg"
+      link : "https://gren.openum.ca/"
+
+---
