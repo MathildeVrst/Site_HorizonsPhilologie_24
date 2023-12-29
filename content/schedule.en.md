@@ -52,7 +52,7 @@ tab:
       venue : "to be determined"
       time : "10.00 - 10.30"
 
-    - speaker : "Gustavo Fernandez (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 ‘Material Text Cultures’)"
+    - speaker : "Gustavo Fernandez (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 ‘Material Text Cultures’)"
       subject : "Text-Image Alignment as a Feature of Digital Editions"
       abstract: "Layout analysis is the computational process by which different regions of a scanned image are identified and categorized. It is an important step in any workflow for handwritten text recognition. Depending on the document, the relevant zones can differ in nature, such as columns and lines. In this presentation, I will show how layout analysis can be used to create text-image alignments in scholarly digital editions of handwritten sources. The alignment links the typeset digital text, which — for the most part — maintains the layout conventions of the mechanical printing era, with the different and also feature-rich surface of handwritten sources. As a concrete example, I will present current developments stemming from the University of Heidelberg, particularly in the scholarly journal *Pylon: Editions and Studies of Ancient Texts*. I will argue that text-image alignment is a useful tool not only in editions of ancient and difficult to read documents, but also of any document with a complex layout."
       biography : "Gustavo Fernández Riva is a Research Associate in Digital Humanities at the University Library of Heidelberg (Germany) and works mainly on technical and conceptual development in the field of Digital Editing. He was awarded a Ph.D. in comparative literature at the University of Buenos Aires in 2018. His main fields of research are written and literary practices in non-typographical societies. His current research projects include using network analysis to study shared manuscript transmission of medieval texts and the creation of an open, collaborative dataset of philological *stemmata*."
@@ -139,10 +139,10 @@ tab:
       venue :
       time : "09.45 - 10.00"
 
-    - speaker : "?"
-      subject : "?"
-      abstract :  "?"
-      biography : "?" 
+    - speaker : "Paolo Mastandrea (Ca' Foscari University of Venice)"
+      subject : "Latin philology and collaborative organization. The new platform of MQDQ Galaxy"
+      abstract :  "The object of this talk is to illustrate the initiative -- born in 2018 -- of the new MQDQ Galaxy platform, with the aim of securing a future for the *Musisque Deoque* and *Poeti d'Italia* corpora and the *Pedecerto* suite of metrical tools, by preserving the existing, but also augmenting and developing it. There are two main areas of intervention. <br> (1) Establishment of an organizational model centered on XML/TEI as the archiving and interchange format and the development of a technological infrastructure designed to make it effectively and readily operational; <br> (2) Creation of a web platform that would expand the audience of contributors by providing all the tools needed to independently prepare new critical texts and apparatuses: documentation, format conversion utility, visual interface for easy entry of apparatus data, manuscript archive."
+      biography : "Paolo Mastandrea has been a professor of Latin at Ca' Foscari University of Venice since 1995. He is interested in Latin poetic language, from Ennian origins to Italian versifiers of the 19^th^ and 20^th^ centuries; late antique historiography; the tradition of classical texts, with special attention to the cultural changes produced by the passage between antiquity and the Middle Ages. He has organised repertoires of literary works in digital form, [most of which are accessible online](http://www.mqdq.it). He co-edits the magazines [Lexis. Poetica, retorica e comunicazione nella tradizione classica](http://www.lexisonline.eu) and Studi Petrarcheschi." 
       venue : "à déterminer"
       time : "10h00 - 10h30"
 

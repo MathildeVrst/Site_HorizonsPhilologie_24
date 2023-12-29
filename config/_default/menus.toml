@@ -3,20 +3,16 @@
 # main menu
 [[main]]
 weight = 1
-name = "Horaire"
-url = "horaire"
+name = "Menu"
+url = "menu"
 
 [[main]]
 weight = 2
-name = "Hackathon"
-url = "hackathon"
+name = "Programme"
+url = "programme"
 
 [[main]]
 weight = 3
 name = "Archives"
 url = "archives"
 
-[[main]]
-name = "Contact"
-url = "contact"
-weight = 4
