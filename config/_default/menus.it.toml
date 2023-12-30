@@ -4,7 +4,7 @@
 [[main]]
 weight = 1
 name = "Menu"
-url = "/"
+url = "/it/"
 
 [[main]]
 weight = 2
