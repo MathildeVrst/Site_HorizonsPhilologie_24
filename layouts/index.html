@@ -17,9 +17,11 @@
           <div class="timer" data-year="{{.year}}" data-month="{{.month}}" data-day="{{.day}}"></div>
           {{ end }}
           {{ end }}
+          <div class="calque">
           {{with .heading}}<h1>{{ . | markdownify }}</h1>{{end}}
           {{with .heading_2}}<h2>{{ . | markdownify }}</h2>{{end}}
           <h6>{{ .content | markdownify }}</h6>
+        </div>
           <!-- Action Button -->
           {{ if .button.enable }}
           {{ with .button }}
