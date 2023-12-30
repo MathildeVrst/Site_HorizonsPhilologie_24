@@ -41,11 +41,11 @@ speakers:
   #speaker items are coming from "content/speakers" folder
 
 ############ Registration ####################
-registration:
-  enable : true
-  title : "Contattaci"
-  content : |
-    Per ulteriori informazioni, contattateci all'indirizzo mathilde [punto] verstraete [at] umontreal [punto] ca.
+#registration:
+#  enable : true
+#  title : "Contattaci"
+#  content : |
+#    Per ulteriori informazioni, contattateci all'indirizzo mathilde [punto] verstraete [at] umontreal [punto] ca.
   # form_action : "https://formspree.io/f/mnqrnvny" # works with formspree.io
 
 ############### Sponsors ##################

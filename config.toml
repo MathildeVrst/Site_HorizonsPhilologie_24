@@ -118,6 +118,12 @@ enable = false
 expire_days = 2
 
 ############################# social site ########################
+
+[[params.social]]
+title = "mastodon"
+icon = "images/icon/mastodon.png"
+link = "https://mastodon.social/deck/@ENumeriques@mamot.fr"
+
 [[params.social]]
 title = "facebook"
 icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
