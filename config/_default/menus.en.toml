@@ -4,7 +4,7 @@
 [[main]]
 weight = 1
 name = "Home"
-url = "/en/"
+url = ""
 
 [[main]]
 weight = 2
