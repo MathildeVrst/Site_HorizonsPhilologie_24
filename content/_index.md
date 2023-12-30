@@ -73,6 +73,7 @@ sponsors:
     #  logo : "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/07/Chaire-canada-768x358.png"
     #  link : "https://www.chairs-chaires.gc.ca/home-accueil-fra.aspx"
     - name : "Conseil de recherches en sciences humaines du Canada"
+    # image à réduire
       logo : "/images/Logo/CRSH-reverse.png"
       link : "https://www.sshrc-crsh.gc.ca/home-accueil-fra.aspx"
     - name : "Centre de recherche interuniversitaire sur les humanités numériques"
