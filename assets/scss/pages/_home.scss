@@ -969,12 +969,12 @@
 			margin: 7px;
 			aspect-ratio: 16 / 9;
 			background: #121149;
-			width: 244px;
+			width: calc(33.33% - 20px);
 			cursor: pointer;
 			transition: all .3s ease;
 			border: 1px solid transparent;
 			img{
-				// height: 55px;
+				width: 500px;
 			}
 			margin-bottom: 10px;
 			&:hover{
@@ -990,6 +990,7 @@
 	}
 }
 
+  
 .sponsors-list{
 	display: flex;
 	flex-direction: row;
@@ -997,6 +998,17 @@
 	justify-content: center;
 	align-items: flex-start;
 }
+
+/* Pour les deux premières lignes */
+.sponsors-list .image-block:nth-child(-n + 6) {
+	width: calc(33.33% - 20px);
+  }
+  
+  /* Pour la dernière ligne */
+  .sponsors-list .image-block:nth-child(n + 7):nth-last-child(-n + 8) {
+	width: calc(50% - 20px);
+	max-height: 100px;
+  }
 
 // Google map
 .map-container {
