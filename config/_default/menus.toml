@@ -16,3 +16,7 @@ weight = 3
 name = "Archives"
 url = "archives"
 
+[[main]]
+weight = 4
+name = "Contacts"
+url = "contacts"

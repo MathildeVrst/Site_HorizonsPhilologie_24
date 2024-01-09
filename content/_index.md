@@ -41,11 +41,11 @@ speakers:
   #speaker items are coming from "content/speakers" folder
 
 ############ Registration ####################
-#registration:
-#  enable : true
-#  title : "Nous contacter"
-#  content : |
-#    Pour plus d'informations, nous contacter à mathilde [point] verstraete [arobase] umontreal [point] ca.
+registration:
+  enable : true
+  title : "Nous contacter"
+  content : |
+    Pour plus d'informations, nous contacter à mathilde [point] verstraete [arobase] umontreal [point] ca.
 #  form_action : "" 
 # works with formspree.io
 

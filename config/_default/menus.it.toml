@@ -15,3 +15,8 @@ url = "programma"
 weight = 3
 name = "Archivi"
 url = "archivi"
+
+[[main]]
+weight = 4
+name = "Contatti"
+url = "contatti"

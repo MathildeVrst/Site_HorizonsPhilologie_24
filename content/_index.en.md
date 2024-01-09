@@ -41,11 +41,11 @@ speakers:
   #speaker items are coming from "content/speakers" folder
 
 ############ Registration ####################
-#registration:
-#  enable : true
-#  title : "Contact us"
-#  content : |
-#    For more information, contact us at mathilde [point] verstraete [at] umontreal [point] ca.
+registration:
+  enable : true
+  title : "Contact us"
+  content : |
+    To contact us, please write to mathilde [point] verstraete [acomercial] umontral [point] ca
   # form_action : "https://formspree.io/f/mnqrnvny" # works with formspree.io
 
 ############### Sponsors ##################

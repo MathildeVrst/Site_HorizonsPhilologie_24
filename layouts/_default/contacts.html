@@ -1,0 +1,131 @@
+{{ define "main"}}
+
+
+<!--==================================
+=            Registration            =
+===================================-->
+{{ if .Params.registration.enable }}
+{{ with .Params.registration }}
+<section class="registration">
+  <div class="container-fuild p-0">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 p-0">
+        <!-- <div class="service-block bg-service overlay-primary text-center">
+          <div class="row no-gutters">
+            {{ range .funfacts }}
+            <div class="col-6">
+              Service item
+              <div class="service-item">
+                <i class="fa {{ .icon }}"></i>
+                <h5>{{.name}}</h5>
+              </div>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div> -->
+      <div class="col-lg-12 col-md-12 p-0">
+        <div class="registration-block">
+          <div class="block">
+            <div class="title text-left">
+              <h3>{{.title | markdownify}}</span></h3>
+              <p>{{ .content | markdownify }}</p>
+            </div>
+            <!--
+            <form action="{{ site.Params.contact_form_action }}" method="POST" class="row"> 
+              <div class="col-md-6">
+                <input type="text" name="name" class="form-control main" placeholder="{{ i18n "Name" }}">
+              </div>
+              <div class="col-md-6">
+                <input type="email" name="email" class="form-control main" placeholder="{{ i18n "Email" }}">
+              </div>
+              <div class="col-md-6">
+                <div class="form-group">
+                  <select class="form-control main" name="attendance" id="select-attendance">
+                    <option selected disabled>{{ i18n "Attendance" }}</option>
+                    <option value="Online">{{ i18n "Online" }}</option>
+                    <option value="On site">{{ i18n "On site" }}</option>
+                  </select>
+                </div>
+                <div class="form-group">
+                  <select class="form-control main" name="status" id="select-status">
+                    <option selected disabled>{{ i18n "Status" }}</option>
+                    <option value="Lecturer">{{ i18n "Teacher" }}</option>
+                    <option value="Student">{{ i18n "Grad student" }}</option>
+                    <option value="Student">{{ i18n "Undergrad student" }}</option>
+                    <option value="Other">{{ i18n "Other" }}</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <input type="background" name="background" class="form-control main" placeholder="{{ i18n "Background (discipline)" }}">
+              </div>
+              <div class="col-md-6">
+                <div class="form-group">
+                  <select class="form-control main" name="ticket" id="select-ticket">
+                    <option selected disabled>{{ i18n "Ticket type" }}</option>
+                    <option value="Workshop">{{ i18n "Workshop" }}</option>
+                    <option value="Hackathon">{{ i18n "Hackathon" }}</option>
+                    <option value="Both">{{ i18n "Both" }}</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-12">
+                <button type="submit" class="btn btn-white-md">{{ i18n "Register Now" }}</button>
+              </div>
+            </form>
+            -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!--====  End of Registration  ====-->
+
+
+<!--===========================
+=            About            =
+============================-->
+{{ if .Params.about.enable }}
+{{ with .Params.about }}
+<section class="section about">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 col-md-6 align-self-center">
+      </div>
+      <div class="col-lg-8 col-md-6 align-self-center">
+        <div class="content-block">
+          <h2>{{.title | markdownify}}</h2>
+          <div class="description-one">
+            {{ .content | markdownify}}
+          </div>
+          <ul class="list-inline">
+            {{ if .button_solid.enable }}
+            {{ with .button_solid }}
+            <li class="list-inline-item">
+              <a href="{{ .link | absURL }}" class="btn btn-main-md">{{.label}}</a>
+            </li>
+            {{ end }}
+            {{ end }}
+            {{ if .button_outline.enable }}
+            {{ with .button_outline }}
+            <li class="list-inline-item">
+              <a href="{{ .link | absURL }}" class="btn btn-transparent-md">{{.label}}</a>
+            </li>
+            {{ end }}
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!--====  End of About  ====-->
+
+
+{{ end }}
