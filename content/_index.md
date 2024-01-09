@@ -24,7 +24,7 @@ banner:
 about:
   enable : true
   title : "Trois journées d'étude consacrées à l'actualité de la philologie à l'ère du numérique, à partir de l'*Anthologie grecque*"
-  image : "images/new_sappho.png"
+  image : "images/sapho.png"
   content : | 
     Quelles implications découlent de la rencontre entre des textes millénaires et des environnements numériques complexes ? Comment devrions-nous traiter les données engendrées par les projets issus des Digital Classics ? Comment pouvons-nous envisager leur structuration pour les rendre accessibles, les valoriser et les réutiliser ? Ces questions constituent le cœur des trois journées d'étude « Horizons de la philologie numérique. L’*Anthologie grecque* pour repenser formats, paradigmes et collaboration » (16-18 avril 2024, Università degli Studi di Napoli Federico II & Université de Montréal). L’objectif de cet événement est d’engager réflexions et discussions sur les fondements épistémologiques des projets d'édition ou d'étude de textes classiques à l'ère numérique, questionnant notamment les choix et utilisations d'outils particuliers, la mise en œuvre de la collaboration, la gestion des données, etc. Cette rencontre se concentrera sur l'étude de cas de l’*Anthologie grecque*, permettant de valoriser la plateforme et les données issues du projet d'[édition numérique et collaborative de l’*Anthologie grecque*](https://anthologiagraeca.org), mené à la Chaire de Recherche du Canada sur les Écritures Numériques depuis 2014. Chaque journée sera dédiée à un des trois axes de l'événement ; les matinées seront dédiées à des conférences et les après-midi à des ateliers pratiques permettant d’explorer concrètement les concepts discutés et d’appliquer certaines des méthodologies présentées.
     1. **Paleographie, HTR et reconstruction numérique** -- À partir d'études de cas, utilisant la reconnaissance de l'écriture manuscrite (HTR), la reconstruction numérique en passant par différentes applications d'intelligence artificielle, cet axe analysera les différentes méthodologies et utilisations pouvant être faites des récentes avancées techniques offrant de nouvelles perspectives pour la préservation et la compréhension du patrimoine classique.
@@ -34,7 +34,7 @@ about:
 ################# Speaker ###################
 speakers:
   enable : true
-  title : "Organisateurs"
+  title : "Organisateur·ice·s"
   content : | 
     Chaire de recherche du Canada sur les écritures numériques (Université de Montréal)  
     Dipartimento di Studi Umanistici (Università degli Studi di Napoli Federico II) 

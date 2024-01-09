@@ -1,7 +1,7 @@
 ---
 title : "Serena Cannavale"
 designation: "Professoressa di Filologia Classica, Dipartimento di Studi Umanistici (UniNa)"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_primo_triclinio_%2C_IV_stile%2C_epoca_neroniana%2C_le_muse_06_urania.jpg/800px-Palestra_grande_di_pompei%2C_affreschi_di_Moregine%2C_primo_triclinio_%2C_IV_stile%2C_epoca_neroniana%2C_le_muse_06_urania.jpg"
+image: "images/speakers/serena.png"
 description : ""
 draft : false
 type: speaker
