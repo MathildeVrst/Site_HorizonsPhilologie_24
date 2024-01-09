@@ -2,11 +2,12 @@
 	position: relative;
 	padding: 165px 0 65px;
 	h3, li, a{
-		color: $light;
+		color: $primary-color;
 	}
 	.title{
 		h3{
 			font-weight: 500;
+			color: $secondary-color;
 			text-transform: uppercase;
 		}
 	}
@@ -17,7 +18,7 @@
 			display: inline-block;
 			text-transform: uppercase;
 			&.active{
-				color: $light;
+				color: $primary-color;
 			}
 		}
 		.breadcrumb-item+.breadcrumb-item::before{

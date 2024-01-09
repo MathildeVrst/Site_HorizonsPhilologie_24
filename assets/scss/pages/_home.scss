@@ -1,8 +1,8 @@
 // ajout proposition calque
 
-.calque {
-	background-color: rgba(230, 143, 30, 0.151);
-}
+// .calque {
+// 	background-color: rgba(230, 143, 30, 0.151);
+// }
 
 // Banner Styles
 .banner{
@@ -71,7 +71,7 @@
 		}
 		h2{
 			font-size: 3.75rem;
-			color: $light;
+			color: $secondary-color;
 			font-weight: 400;
 	        text-shadow: 3.5px 6.062px 0px rgba(0, 0, 0, 0.1);
 			font-style: italic;
@@ -83,7 +83,7 @@
 			}
 		}
 		h6{
-			color: $light;
+			color: $primary-color;
 			font-weight: 400;
 			margin-bottom: 50px;
 		}
