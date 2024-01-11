@@ -110,7 +110,7 @@ batiment = ""
 location = ""
 metro = ""
 bus = ""
-link = "https://www.openstreetmap.org/#map=16/45.5012/-73.6221&layers=N"
+link = "https://www.openstreetmap.org/#map=19/40.84444/14.25812&layers=N"
 
 # cookies
 [params.cookies]
@@ -121,7 +121,7 @@ expire_days = 2
 
 [[params.social]]
 title = "mastodon"
-icon = "images/icon/mastodon.png"
+icon = "fa-brands fa-mastodon"
 link = "https://mastodon.social/deck/@ENumeriques@mamot.fr"
 
 [[params.social]]
