@@ -45,10 +45,10 @@ tab:
       venue : "to be determined"
       time : "09.45 - 10.00"
 
-    - speaker : "?"
-      subject : "?"
-      abstract: "?"
-      biography : "?"
+    - speaker : "Marcello Vitali-Rosati, Mathilde Verstraete (CRCEN -- UdeM)" 
+      subject : "A decade of the *Greek Anthology* project -- achievements, successes, challenges"
+      abstract: "Since 2014, the Canada Research Chair in Digital Textualities has been running the [collaborative and digital edition of the Greek Anthology](https://anthologiagraeca.org/) project. In the space of a decade, the project has evolved on three different platforms, brought together numerous researchers from multiple disciplines and at different stages of their careers, and spawned new avenues of research, exploiting the many facets of this thousand-year-old corpus. We propose to take stock of this project, in terms of its successes, discoveries and developments, as well as the challenges still ahead."
+      biography : "**Marcello Vitali-Rosati** is a professor in the Department of French Literature at the Université de Montréal and holds the Canada Research Chair in Digital Textualities. He is developing a philosophical reflection on the challenges of digital technologies: the concept of the virtual, digital identity, notions of author and authority, forms of production, legitimization and circulation of knowledge in the age of the web, and the theory of editorialization -- to which he is one of the most active contributors. He is the author of numerous articles and monographs, and also works as a publisher, editing the journal Sens public and co-directing the *Parcours Numériques* collection at the Presses de l'Université de Montréal. As holder of the Chair in Digital Textualities, he leads several projects in digital humanities, particularly in the field of scholarly publishing. These include the development of platforms for publishing enriched journals and monographs, software for editing scientific articles, and a collaborative publishing platform for the Codex Palatinus 23. <br> **Mathilde Verstraete** is a PhD student in digital humanities at the University of Montréal. After obtaining a master's degree in classical languages and literature at the Catholic University of Louvain (Belgium), she joined the Canada Research Chair on Digital Textualities to coordinate the collaborative digital edition of the Greek Anthology. Under the supervision of Marcello Vitali-Rosati and Elsa Bouchard, her research focuses on digital critical editions and the tools that produce them."
       venue : "to be determined"
       time : "10.00 - 10.30"
 
@@ -242,10 +242,10 @@ tab:
       venue :
       time : "09.45 - 10.00"
 
-    - speaker : "?"
-      subject : "?"
-      abstract: "?"
-      biography : "?"
+    - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
+      subject : "To come"
+      abstract: "To come"
+      biography : "As a research fellow, Robert Alessi holds an academic position at the French CNRS Joint Research Unit “Orient & Méditerranée” (UMR 8167, Paris, France). His research concentrates on the edition of Greek and Arabic medical texts, on the history of medicine, but also on computing applied to classical studies."
       venue : "to be determined"
       time : "10.00 - 10.30"
 
@@ -272,7 +272,7 @@ tab:
       time : "11.30 - 12.00"      
 
     - speaker : "Simone Beta (University of Siena)"
-      subject : "En How to edit Greek riddles : questions and answers"
+      subject : "On How to edit Greek Riddles : Questions and Answers"
       abstract : "The edition of Greek riddles, especially those composed during the Byzantine period, is often troublesome. In fact, the same text is sometimes witnessed in quite different versions depending on the manuscripts in which it appears: we do not find the typical textual variants present in other similar compositions (epigrams, for example), often limited to a single word, but with much more significant differences, which may even concern one or more verses. After presenting some examples of these variants, the paper will propose some publishing possibilities, which could benefit greatly from new technologies."
       biography : "Simone Beta is Professor of Greek language and literature at the University of Siena. He is the author of numerous monographs and articles on multiple topics such as ancient theatre, rhetoric, epigrammatic poetry (especially enigmas and oracles) and reception of classical culture in the modern era. Regarding comedy, he has mostly worked on Aristophanes and his adpatations (on the history of the Lysistrata character, see *La donna che sconfigge la guerra. Lisistrata racconta la sua storia*, 2022). Among his latest publications, we cite *Io, un manoscritto: l’Antologia Palatina si racconta* (2017) – which has been translated in french and published by Les Belles Lettres (2019) – and *Il labirinto della parola. Enigmi, oracoli e sogni nella cultura antica* (2016)."
       venue : "to be determined"

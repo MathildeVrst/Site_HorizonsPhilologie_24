@@ -45,10 +45,10 @@ tab:
       venue : "da determinare"
       time : "09.45 - 10.00"
 
-    - speaker : "?"
-      subject : "?"
-      abstract: "?"
-      biografia : "?"
+    - speaker : "Marcello Vitali-Rosati, Mathilde Verstraete (CRCEN -- UdeM)"   
+      subject : "Un decennio del progetto *Antologia greca* -- risultati, successi e sfide"
+      abstract: "Dal 2014, la Canada Research Chair in Digital Textualities gestisce il progetto di [edizione digitale collaborativa dell'Antologia greca](https://anthologiagraeca.org/). Nell'arco di un decennio, il progetto si è sviluppato su tre diverse piattaforme, ha riunito numerosi ricercatori provenienti da un'ampia gamma di discipline e in diverse fasi della loro carriera, e ha generato nuovi percorsi di ricerca, sfruttando le molteplici sfaccettature di questo corpus secolare. Ci proponiamo di fare un bilancio di questo progetto, in termini di successi, scoperte e sviluppi, nonché delle sfide che ancora ci attendono."
+      biografia : "**Marcello Vitali-Rosati** è professore presso il Dipartimento di Letteratura francese dell'Università di Montréal e detiene la *Canada Research Chair in Digital Textualities*. Sta sviluppando una riflessione filosofica sulle questioni sollevate dalle tecnologie digitali: il concetto di virtuale, l'identità digitale, le nozioni di paternità e autorità, le forme di produzione, legittimazione e circolazione del sapere nell'era del web, e la teoria dell'editorialità -- di cui è uno dei più attivi collaboratori. Autore di numerosi articoli e monografie, lavora anche come redattore e direttore della rivista Sens public e co-direttore della collezione *Parcours Numériques* presso le Presses de l'Université de Montréal. In qualità di titolare della *Chair in Digital Textualities*, dirige diversi progetti nel campo delle scienze umane digitali, in particolare nel campo dell'editoria accademica. Tra questi, lo sviluppo di piattaforme per la pubblicazione di riviste e monografie arricchite, di software per l'editing di articoli scientifici e di una piattaforma editoriale collaborativa per il Codex Palatinus 23. <br> **Mathilde Verstraete** è dottoranda in Digital Humanities presso l'Università di Montréal. Dopo aver conseguito un master in lingue e letterature classiche presso l'Université Catholique de Louvain (Belgio), ha raggiunto la Canada Research Chair on Digital Writers come coordinatrice dell'edizione digitale collaborativa dell'Antologia greca. Sotto la supervisione di Marcello Vitali-Rosati ed Elsa Bouchard, sta conducendo una ricerca sulle edizioni critiche digitali e sugli strumenti utilizzati per produrle."
       venue : "da determinare"
       time : "10.00 - 10.30"
 
@@ -242,10 +242,10 @@ tab:
       venue :
       time : "09.45 - 10.00"
 
-    - speaker : "?"
-      subject : "?"
-      abstract: "?"
-      biografia : "?"
+    - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
+      subject : "prossimamente"
+      abstract: "prossimamente"
+      biografia : "Robert Alessi è ricercatore presso l'Unità di ricerca congiunta del CNRS “Orient & Méditerranée” (UMR 8167, Parigi, Francia). La sua ricerca si concentra sull'edizione dei testi medici greci e arabi, sulla storia della medicina, ma anche sull'informatica applicata agli studi classici."
       venue : "da determinare"
       time : "10.00 - 10.30"
 
