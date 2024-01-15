@@ -22,8 +22,8 @@ about:
     Son organisation a été rendu possible par : 
       - L'implication de la [Chaire de recherche du Canada sur les Écritures Numériques](https://www.ecrituresnumeriques.ca/fr/) (Université de Montréal) et du [Dipartimento Studi Umanistici](https://www.studiumanistici.unina.it/) (Université degli Studi di Napoli Federico II) ; 
       - Une subvention Connexion du [Conseil de recherches en sciences humaines (Canada)](https://www.sshrc-crsh.gc.ca/home-accueil-fra.aspx) ; 
-      - Des appuis financiers de l'[Université de Montréal](https://www.umontreal.ca/), de la [FAS](https://fas.umontreal.ca/accueil/) (Faculté des Arts et des Sciences), du [CRIHN (Centre de recherche interuniversitaire sur les humanités numériques)](https://www.crihn.org/), du [GREN (Groupe de recherche sur les éditions critiques en contexte numérique)](https://gren.openum.ca/) et du projet *Epigraphic Poetry in Ancient Campania* (MUR “PRIN 2022 PNRRCANNAVALE). 
+      - Des appuis financiers de l'[Université de Montréal](https://www.umontreal.ca/), de la [FAS](https://fas.umontreal.ca/accueil/) (Faculté des Arts et des Sciences), du [CRIHN (Centre de recherche interuniversitaire sur les humanités numériques)](https://www.crihn.org/), du [GREN (Groupe de recherche sur les éditions critiques en contexte numérique)](https://gren.openum.ca/), du projet *Epigraphic Poetry in Ancient Campania* (MUR “PRIN 2022 PNRRCANNAVALE) et du *Ciclo di Seminari Ecdotica e interpretazione dei classici latini e greci: problemi di metodo in prospettiva interdisciplinare?*. 
 
     Ce site a été réalisé par Mathilde Verstraete avec l'aide de Louis-Olivier Brassard, Roch Delannay & Margot Mellet, à partir d'un thème conçu par [Themefisher](https://themefisher.com/), développé par [Gethugothemes](https://gethugothemes.com/).  
-    Le déploiement a été assuré par Louis-Olivier Brassard. Merci à Margot Mellet et Giulia Ferretti pour leurs précieuses traductions et relectures. 
+    Le déploiement a été assuré par Louis-Olivier Brassard. Merci à Margot Mellet et Giulia Ferretti pour leurs précieuses traductions et relectures, à Émile Caron et Yann Audin pour les visuels.
 ---

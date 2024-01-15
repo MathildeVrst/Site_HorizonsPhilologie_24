@@ -16,7 +16,7 @@ banner:
     day : 16
   button:
     enable : true
-    label : "Jitsi link"
+    label : "Link to the videoconference"
     link : "https://meet.jit.si/horizons-phil-num-crcen"
 
 

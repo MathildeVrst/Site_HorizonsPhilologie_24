@@ -12,8 +12,8 @@ tab:
   enable : true
   title : "Programma"
   content : |
-    Le conferenze online saranno trasmesse in diretta dalla sede del CRIHN (pad. Lionel-Groulx, stanza 8132) tramite [**Jitsi**](https://meet.jit.si/horizons-phil-num-crcen).  
-    È disponibile **qui - a breve** - un pad collaborativo (note multilingue e link importanti).
+    Le conferenze online saranno trasmesse in diretta dalla sede del CRIHN (pad. Lionel-Groulx, stanza 8132) tramite tra [**la piattaforma Jitsi**](https://meet.jit.si/horizons-phil-num-crcen).  
+    È disponibile **qui (a breve)** - un pad collaborativo (note multilingue e link importanti).
   tablist:
   # tab item
   - name : "Giorno 01"
@@ -149,7 +149,7 @@ tab:
     - speaker : "Monica Berti (Università di Lipsia)"
       subject : "Canoni e cataloghi collaborativi per una filologia sostenibile in ambiente digitale"
       abstract :  "L'obiettivo di questo intervento è la presentazione di progetti collaborativi per la creazione di cataloghi di autori antichi derivanti dall’estrazione e dall’annotazione delle citazioni bibliografiche nel corpus della letteratura greca antica. Le riflessioni toccheranno sia questioni epistemologiche inerenti al linguaggio antico della citazione bibliografica, sia questioni pratiche derivanti dall’uso delle tecnologie digitali impiegate per l’individuazione e l’estrazione di questo tipo di linguaggio dal patrimonio testuale greco antico. Particolare risalto verrà dato all’aspetto collaborativo della pratica filologica ed esegetica, il quale, pur essendo oggi rivitalizzato dalla necessaria interdisciplinarietà dei progetti digitali, non costituisce una novità assoluta e trova riscontri nel mondo antico."
-      biografia : "Monica Berti lavora all’Università di Lipsia dove insegna e svolge ricerca nel campo delle digital humanities applicate alla storia antica e alla filologia classica. Collabora da molti anni con il Perseus Project e ha diretto diversi progetti riguardanti la tradizione indiretta delle fonti greche e latine con particolare riguardo alla letteratura frammentaria. In ambito didattico, ha fondato il consorzio internazionale Sunoikisis Digital Classics per l’insegnamento delle tecnologie digitali applicate al mondo antico in collaborazione con il Center for Hellenic Studies della Harvard University e l’Institute of Classical Studies di Londra." 
+      biografia : "Monica Berti lavora all’Università di Lipsia dove insegna e svolge ricerca nel campo delle digital humanities applicate alla storia antica e alla filologia classica. Collabora da molti anni con il Perseus Project e ha diretto diversi progetti riguardanti la tradizione indiretta delle fonti greche e latine con particolare riguardo alla letteratura frammentaria. In ambito didattico, ha fondato il consorzio internazionale *Sunoikisis Digital Classics* per l’insegnamento delle tecnologie digitali applicate al mondo antico in collaborazione con il Center for Hellenic Studies della Harvard University e l’Institute of Classical Studies di Londra." 
       venue : "à déterminer"
       time : "10.30 - 11.00"
 
@@ -170,8 +170,8 @@ tab:
 
     - speaker : "Marta Legnini (Università degli Studi di Parma, dottoranda)"
       subject : "Collaborare e condividere. Sfide e opportunità dell’edizione digitale di alcuni epigrammi dell’*Anthologia*"
-      abstract : "Il presente contributo illustra l'integrazione della piattaforma *antologiagraeca* (attraverso l'aggiunta di traduzioni, commenti e note bibliografiche) nell'ambito di uno studio filologico sugli epigrammi 'anacreontei' dell'Antologia Palatina. Si porrà l'accento sulle scelte operate nel passaggio dall'edizione cartacea a quella digitale e sulle opportunità scientifiche e divulgative offerte da un progetto di \"filologia collaborativa\" basato su contributi specialistici."
-      biografia : "Marta Legnini è dottoranda all'Università di Parma sotto la supervisione di Massimo Magnani e Lucia Floridi (Univ. Bologna). Dopo la laurea magistrale in Lettere Classiche nella stessa sede, dal 2021 collabora con il progetto Erasmus+ ENCODE, dedicato alla diffusione delle competenze digitali nello studio delle culture scrittorie antiche. La sua ricerca dottorale riguarda i Poeti lirici nella Corona di Meleagro. Altri suoi interessi di ricerca sono la pseudoepigrafia e la tradizione indiretta dell'epigramma."
+      abstract : "Il presente contributo illustra l'integrazione della piattaforma *Anthologia graeca* (attraverso l'aggiunta di traduzioni, commenti e note bibliografiche) nell'ambito di uno studio filologico sugli epigrammi 'anacreontei' dell'Antologia Palatina. Si porrà l'accento sulle scelte operate nel passaggio dall'edizione cartacea a quella digitale e sulle opportunità scientifiche e divulgative offerte da un progetto di \"filologia collaborativa\" basato su contributi specialistici."
+      biografia : "Marta Legnini è dottoranda all'Università di Parma sotto la supervisione di Massimo Magnani e Lucia Floridi. Dopo la laurea magistrale in Lettere Classiche nella stessa sede, dal 2021 collabora con il progetto Erasmus+ ENCODE, dedicato alla diffusione delle competenze digitali nello studio delle culture scrittorie antiche. La sua ricerca dottorale riguarda i Poeti lirici nella Corona di Meleagro. Altri suoi interessi di ricerca sono la pseudoepigrafia e la tradizione indiretta dell'epigramma."
       venue : "da determinare"
       time : "12.00 - 12.30"
 
@@ -279,8 +279,8 @@ tab:
       time : "12.00 - 12.30"
 
     - speaker : "Elsa Bouchard (Università di Montréal)"
-      subject : "Tra il simposio e la campagna: i *topoi* epigrammatici del 7^ Idillio di Teocrito"
-      abstract : "Il 7^ Idillio di Teocrito è conosciuto per la sua sezione centrale che contiene due brevi canti eseguiti da cantori bucolici, entrambi riferiti a frammenti di storie e situazioni suggestive che sembrano debolmente legate tra loro. In uno scritto ampiamente ignorato e pubblicato nel 1959, François Lasserre avanza l'ipotesi che questi canti siano in realtà un coacervo di riferimenti a epigrammi composti da varie persone e che gli stessi epigrammi facessero parte di un'antologia (presumibilmente chiamata Σωρός) pubblicata da un gruppo di poeti associati al circolo alessandrino di poesia d'avanguardia. Lo scopo di questo intervento è duplice. In primo luogo, esamino nuovamente le prove addotte da Lasserre riguardo alle fonti epigrammatiche dell'Idillio 7 e propongo alcune modifiche alla sua teoria. In secondo luogo, indago la natura intermediale dell'uso da parte di Teocrito di un formato epigrammatico-antologico *all'interno* di un'opera come l'Idillio 7, che altrimenti si presenterebbe come una chiara composizione di poesia bucolica."
+      subject : "Tra il simposio e la campagna: i *topoi* epigrammatici del 7<sup>e</sup> Idillio di Teocrito"
+      abstract : "Il 7<sup>e</sup> Idillio di Teocrito è conosciuto per la sua sezione centrale che contiene due brevi canti eseguiti da cantori bucolici, entrambi riferiti a frammenti di storie e situazioni suggestive che sembrano debolmente legate tra loro. In uno scritto ampiamente ignorato e pubblicato nel 1959, François Lasserre avanza l'ipotesi che questi canti siano in realtà un coacervo di riferimenti a epigrammi composti da varie persone e che gli stessi epigrammi facessero parte di un'antologia (presumibilmente chiamata Σωρός) pubblicata da un gruppo di poeti associati al circolo alessandrino di poesia d'avanguardia. Lo scopo di questo intervento è duplice. In primo luogo, esamino nuovamente le prove addotte da Lasserre riguardo alle fonti epigrammatiche dell'Idillio 7 e propongo alcune modifiche alla sua teoria. In secondo luogo, indago la natura intermediale dell'uso da parte di Teocrito di un formato epigrammatico-antologico *all'interno* di un'opera come l'Idillio 7, che altrimenti si presenterebbe come una chiara composizione di poesia bucolica."
       biografia : "Dal 2012, Elsa Bouchard è professoressa di lingua e letteratura greca presso l'Université de Montréal (Dipartimento di Filosofia/Centro di Studi Classici). I suoi interessi di ricerca riguardano la filosofia antica, la letteratura greca e la religione, comprese la poetica e la retorica."
       venue : "da determinare"
       time : "12.30 - 13.00"

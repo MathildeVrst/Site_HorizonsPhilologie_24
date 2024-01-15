@@ -8,7 +8,7 @@ banner:
   enable : true
   heading : "Orizzonti della filologia digitale"
   heading_2 : "L'Antologia greca per ripensare [formati], [paradigmi] e [collaborazione]"
-  content : "Università degli Studi di Napoli Federico II & Université de Montréal, 16-18 di Aprile 2024"
+  content : "Università degli Studi di Napoli Federico II & Université de Montréal, 16-18 Aprile 2024"
   timer:
     enable : true
     year : 2024
@@ -16,7 +16,7 @@ banner:
     day : 16
   button:
     enable : true
-    label : "Jitsi link"
+    label : "Collegamento alla videoconferenza"
     link : "https://meet.jit.si/horizons-phil-num-crcen"
 
 
