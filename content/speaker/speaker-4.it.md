@@ -55,4 +55,4 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
-Mathilde Verstraete è dottoranda in Digital humanities presso l'Università di Montreal. Dopo aver conseguito la sua magistrale in lingue e letterature classiche presso l'Université Catholique de Louvain (Belgio), si è unita al progetto di edizione digitale collaborativa dell'Antologia greca. Sotto la supervisione di Marcello Vitali Rosati ed Elsa Bouchard, sta conducendo una ricerca sul potenziale della ricezione del manoscritto dell'Antologia greca.
+Mathilde Verstraete è dottoranda in Digital humanities presso l'Università di Montreal. Dopo aver conseguito una laurea magistrale in lingue e letterature classiche presso l'Université Catholique de Louvain (Belgio), ha integrato il progetto di edizione digitale collaborativa dell'Antologia greca. Sotto la supervisione di Marcello Vitali-Rosati ed Elsa Bouchard, conduce la sua ricerca dottorale sul potenziale della ricezione del manoscritto dell'Antologia greca.

@@ -55,4 +55,4 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
-Elsa Bouchard è docente di lingua e letteratura greca presso l'Università di Montréal (Dipartimento di Filosofia/Centro di Studi Classici) dal 2012. I suoi interessi di ricerca spaziano dalla filosofia antica alla letteratura e alla religione greca, passando per la poetica e la retorica. È anche co-ricercatrice dell'edizione digitale collaborativa dell'Antologia greca.
+Elsa Bouchard è docente di lingua e letteratura greca presso l'Università di Montréal (Dipartimento di Filosofia/Centro di Studi Classici) dal 2012. I suoi interessi di ricerca spaziano dalla filosofia antica alla letteratura e alla religione greca, passando per la poetica e la retorica. È anche co-ricercatrice all'interno del progetto di edizione digitale e collaborativa dell'Antologia greca.
