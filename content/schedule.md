@@ -242,10 +242,10 @@ tab:
       venue :
       time : "09h45 - 10h00"
 
-    - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
-      subject : "à venir"
-      résumé :  "à venir"
-      biographie : "Robert Alessi est membre statutaire de l'Unité Mixte de Recherche «Orient & Méditerranée» (CNRS UMR 8167, Paris). Son travail porte sur l'édition des textes médicaux grecs et arabes, l'histoire de la médecine, mais aussi sur l'informatique appliquée aux études classiques." 
+    - speaker : "Giambattista D'Alessio (Université de Naples Federico II)"
+      subject : "L'édition de textes fragmentaires enchevêtrés : le cas de P.Oxy. IV 659 (Pindare, *Partheneia* ?) et 662 (Anthologie d'épigrammes)"
+      résumé :  "Dans cet article, j'analyse les implications mutuelles de l'édition de textes copiés sur le recto et le verso d'un papyrus d'Oxyrhynque aujourd'hui conservé à la British Library, en considérant également la question de la condition matérielle du support."
+      biographie : "Après une formation à la Scuola Normale Superiore de Pise, Giovan Battista D'Alessio a été pendant trois ans le premier chercheur d'Arnaldo Momigliano à l'University College de Londres. Il a ensuite été professeur et professeur associé de littérature grecque à l'université de Messine (jusqu'en 2007) et professeur de langue et de littérature grecques au King's College de Londres (2007-2014). Il est actuellement professeur de philologie classique à l'université de Naples Federico II. Au cours de ces périodes, il a enseigné régulièrement et intensivement sur divers sujets classiques et a supervisé plusieurs étudiants des premier, deuxième et troisième cycles. Ses recherches ont principalement porté sur la poésie grecque, en particulier sur la poésie lyrique et hellénistique et sur les papyrus littéraires grecs. Liste des publications disponibles à [cette adresse](https://www.iris.unina.it/cris/rp/rp16792?sortBy=2&order=DESC&type=all)."      
       venue : "à déterminer"
       time : "10h00 - 10h30"
 
@@ -285,10 +285,10 @@ tab:
       venue : "à déterminer"
       time : "12h30 - 13h00"
 
-    - speaker : "Giambattista D'Alessio (Université de Naples Federico II)"
-      subject : "L'édition de textes fragmentaires enchevêtrés : le cas de P.Oxy. IV 659 (Pindare, *Partheneia* ?) et 662 (Anthologie d'épigrammes)"
-      résumé :  "Dans cet article, j'analyse les implications mutuelles de l'édition de textes copiés sur le recto et le verso d'un papyrus d'Oxyrhynque aujourd'hui conservé à la British Library, en considérant également la question de la condition matérielle du support."
-      biographie : "Après une formation à la Scuola Normale Superiore de Pise, Giovan Battista D'Alessio a été pendant trois ans le premier chercheur d'Arnaldo Momigliano à l'University College de Londres. Il a ensuite été professeur et professeur associé de littérature grecque à l'université de Messine (jusqu'en 2007) et professeur de langue et de littérature grecques au King's College de Londres (2007-2014). Il est actuellement professeur de philologie classique à l'université de Naples Federico II. Au cours de ces périodes, il a enseigné régulièrement et intensivement sur divers sujets classiques et a supervisé plusieurs étudiants des premier, deuxième et troisième cycles. Ses recherches ont principalement porté sur la poésie grecque, en particulier sur la poésie lyrique et hellénistique et sur les papyrus littéraires grecs. Liste des publications disponibles à [cette adresse](https://www.iris.unina.it/cris/rp/rp16792?sortBy=2&order=DESC&type=all)." 
+    - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
+      subject : "à venir"
+      résumé :  "à venir"
+      biographie : "Robert Alessi est membre statutaire de l'Unité Mixte de Recherche «Orient & Méditerranée» (CNRS UMR 8167, Paris). Son travail porte sur l'édition des textes médicaux grecs et arabes, l'histoire de la médecine, mais aussi sur l'informatique appliquée aux études classiques." 
       venue : "à déterminer"
       time : "13h00 - 13h30"
 

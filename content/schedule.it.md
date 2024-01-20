@@ -242,10 +242,10 @@ tab:
       venue :
       time : "09.45 - 10.00"
 
-    - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
-      subject : "prossimamente"
-      abstract: "prossimamente"
-      biografia : "Robert Alessi è ricercatore presso l'Unità di ricerca congiunta del CNRS “Orient & Méditerranée” (UMR 8167, Parigi, Francia). La sua ricerca si concentra sull'edizione dei testi medici greci e arabi, sulla storia della medicina, ma anche sull'informatica applicata agli studi classici."
+    - speaker : "Giambattista D'Alessio (Università degli Studi di Napoli Federico II)"
+      subject : "L'edizione di testi frammentari aggrovigliati: il caso di P.Oxy. IV 659 (Pindaro, *Partheneia* ?) e 662 (Antologia di epigrammi)"
+      abstract: "In questo articolo analizzo le implicazioni reciproche connesse all'edizione dei testi copiati sul recto e sul verso di un papiro di Ossirinco oggi conservato alla British Library, prendendo anche in considerazione la questione delle condizioni materiali del supporto."
+      biografia : "Giovan Battista D'Alessio, dopo una formazione alla Scuola Normale Superiore di Pisa, ha trascorso 3 anni come primo Research Fellow di Arnaldo Momigliano all'University College di Londra. Successivamente è stato docente e professore associato di Letteratura greca all'Università di Messina (fino al 2007) e professore di Lingua e letteratura greca al King's College di Londra (2007-2014). È attualmente professore di Filologia classica presso l'Università di Napoli \"Federico II\". Durante questi periodi ha insegnato regolarmente e intensamente su varie materie classiche e ha supervisionato diversi studenti universitari di primo, secondo e terzo ciclo. I suoi interessi di ricerca si sono concentrati principalmente sulla poesia greca, con particolare attenzione alla poesia lirica ed ellenistica e ai papiri letterari greci. L'elenco delle pubblicazioni è disponibile a [questo indirizzo](https://www.iris.unina.it/cris/rp/rp16792?sortBy=2&order=DESC&type=all)."
       venue : "da determinare"
       time : "10.00 - 10.30"
 
@@ -285,10 +285,10 @@ tab:
       venue : "da determinare"
       time : "12.30 - 13.00"
 
-    - speaker : "Giambattista D'Alessio (Università degli Studi di Napoli Federico II)"
-      subject : "L'edizione di testi frammentari aggrovigliati: il caso di P.Oxy. IV 659 (Pindaro, *Partheneia* ?) e 662 (Antologia di epigrammi)"
-      abstract: "In questo articolo analizzo le implicazioni reciproche connesse all'edizione dei testi copiati sul recto e sul verso di un papiro di Ossirinco oggi conservato alla British Library, prendendo anche in considerazione la questione delle condizioni materiali del supporto."
-      biografia : "Giovan Battista D'Alessio, dopo una formazione alla Scuola Normale Superiore di Pisa, ha trascorso 3 anni come primo Research Fellow di Arnaldo Momigliano all'University College di Londra. Successivamente è stato docente e professore associato di Letteratura greca all'Università di Messina (fino al 2007) e professore di Lingua e letteratura greca al King's College di Londra (2007-2014). È attualmente professore di Filologia classica presso l'Università di Napoli \"Federico II\". Durante questi periodi ha insegnato regolarmente e intensamente su varie materie classiche e ha supervisionato diversi studenti universitari di primo, secondo e terzo ciclo. I suoi interessi di ricerca si sono concentrati principalmente sulla poesia greca, con particolare attenzione alla poesia lirica ed ellenistica e ai papiri letterari greci. L'elenco delle pubblicazioni è disponibile a [questo indirizzo](https://www.iris.unina.it/cris/rp/rp16792?sortBy=2&order=DESC&type=all)."
+    - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
+      subject : "prossimamente"
+      abstract: "prossimamente"
+      biografia : "Robert Alessi è ricercatore presso l'Unità di ricerca congiunta del CNRS “Orient & Méditerranée” (UMR 8167, Parigi, Francia). La sua ricerca si concentra sull'edizione dei testi medici greci e arabi, sulla storia della medicina, ma anche sull'informatica applicata agli studi classici."
       venue : "da determinare"
       time : "13.00 - 13.30"
 
@@ -310,7 +310,7 @@ tab:
 
     - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
       subject : "Workshop - ekdosis e il “single source publishing” nell'edizione critica digitale"
-      abstract : "L'edizione critica, realizzata in formato digitale o cartaceo, deve preservare la forma tradizionale dell'apparatus criticus ereditata da oltre due secoli di tradizione continua. Lo intendiamo come un paragrafo scritto in latino con sfumature ed economia di stile. Sebbene questo stile di scrittura sia immediatamente accessibile all'intelligenza umnana, rimane incomprensibile dalle macchine. In questo workshop verrà mostrato tramite esempi concreti come ‘ekdosis’ possa essere utilizato come fase iniziale in una catena editoriale a “single source publishing”. Partendo da un codice sorgente semplice ma strutturato, si può richiedere a ‘ekdosis’ di compilare in una singola operazione due output completamente diversi: il primo destinato alla pubblicazione stampata tradizionale con note critiche scritte per esteso e il secondo sotto forma di database TEI xml direttamente interpretabile dalle macchine."
+      abstract : "L’edizione critica, sia che sia realizzata in formato digitale, sia che sia realizzata in formato cartaceo, deve preservare la forma tradizionale dell’apparato critico ereditata da oltre due secoli di tradizione ininterrotta. Lo intendiamo come una sezione del testo, scritta in latino e in uno stile conciso. Questo tipo di scrittura è immediatamente accessibile all’intelligenza umana, ma rimane indecifrabile da parte delle macchine. In questo workshop verrà mostrato tramite esempi concreti come *ekdosis* possa essere utilizzato come fase iniziale in una catena editoriale di *single source publishing*. Partendo da un codice sorgente semplice e strutturato, si può richiedere a *ekdosis* di compilare in una singola operazione due output completamente diversi: il primo destinato alla pubblicazione stampata tradizionale con note critiche scritte per esteso, e il secondo sotto forma di database TEI xml direttamente interpretabile dalle macchine."
       biografia : "Robert Alessi è ricercatore presso l'Unità di ricerca congiunta del CNRS “Orient & Méditerranée” (UMR 8167, Parigi, Francia). La sua ricerca si concentra sull'edizione dei testi medici greci e arabi, sulla storia della medicina, ma anche sull'informatica applicata agli studi classici."
       venue : "da determinare"
       time : "15.30 – 17.30"

@@ -242,10 +242,11 @@ tab:
       venue :
       time : "09.45 - 10.00"
 
-    - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
-      subject : "To come"
-      abstract: "To come"
-      biography : "As a research fellow, Robert Alessi holds an academic position at the French CNRS Joint Research Unit “Orient & Méditerranée” (UMR 8167, Paris, France). His research concentrates on the edition of Greek and Arabic medical texts, on the history of medicine, but also on computing applied to classical studies."
+
+    - speaker : "Giambattista D'Alessio (University of Naples Federico II)"
+      subject : "Editing entangled fragmentary texts: the case of P.Oxy. IV 659 (Pindar, *Partheneia* ?) and 662 (Anthology of Epigrams)"
+      abstract: "In this paper I examine the mutual implications involved in the edition of the texts copied on the recto and the verso of an Oxyrhynchus papyrus now in the British Library, taking into account also the issue of the material conditions of the support."
+      biography : "Giovan Battista D'Alessio, after his formation at the Scuola Normale Superiore di Pisa, spent 3 years as the first Arnaldo Momigliano Research Fellow at University College, London. He has subsequently been Lecturer and Associate Professor of Greek Literature at the University of Messina (up to 2007); and Professor of Greek Language and Literature at King's College, London (2007-2014). He is now Professor of Classical Philology at the University of Naples \"Federico II\". During these periods he has regularly and intensively taught on various Classics- related subjects and supervised several undergraduate and postgraduate students. His research interests have focused mainly on Greek poetry, with particular attention to Greek Lyric and Hellenistic poetry and on Greek Literary papyri. Publication list available at [this adress](https://www.iris.unina.it/cris/rp/rp16792?sortBy=2&order=DESC&type=all)."
       venue : "to be determined"
       time : "10.00 - 10.30"
 
@@ -285,10 +286,10 @@ tab:
       venue : "to be determined"
       time : "12.30 - 13.00"
 
-    - speaker : "Giambattista D'Alessio (University of Naples Federico II)"
-      subject : "Editing entangled fragmentary texts: the case of P.Oxy. IV 659 (Pindar, *Partheneia* ?) and 662 (Anthology of Epigrams)"
-      abstract: "In this paper I examine the mutual implications involved in the edition of the texts copied on the recto and the verso of an Oxyrhynchus papyrus now in the British Library, taking into account also the issue of the material conditions of the support."
-      biography : "Giovan Battista D'Alessio, after his formation at the Scuola Normale Superiore di Pisa, spent 3 years as the first Arnaldo Momigliano Research Fellow at University College, London. He has subsequently been Lecturer and Associate Professor of Greek Literature at the University of Messina (up to 2007); and Professor of Greek Language and Literature at King's College, London (2007-2014). He is now Professor of Classical Philology at the University of Naples \"Federico II\". During these periods he has regularly and intensively taught on various Classics- related subjects and supervised several undergraduate and postgraduate students. His research interests have focused mainly on Greek poetry, with particular attention to Greek Lyric and Hellenistic poetry and on Greek Literary papyri. Publication list available at [this adress](https://www.iris.unina.it/cris/rp/rp16792?sortBy=2&order=DESC&type=all)."
+    - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
+      subject : "To come"
+      abstract: "To come"
+      biography : "As a research fellow, Robert Alessi holds an academic position at the French CNRS Joint Research Unit “Orient & Méditerranée” (UMR 8167, Paris, France). His research concentrates on the edition of Greek and Arabic medical texts, on the history of medicine, but also on computing applied to classical studies."
       venue : "to be determined"
       time : "13.00 - 13.30"
 
