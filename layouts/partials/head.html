@@ -42,8 +42,8 @@ AUTHOR WEBSITE: https://themefisher.com
   <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
 
   {{ "<!--fontawesome6-->" | safeHTML }}
-  <link rel="stylesheet" href="{{ `/plugins/fontawesome6/css/all.css` |absURL }}" />
-
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}plugins/fontawesome6/css/all.css">
+  
   {{ "<!-- multilingual SEO optimizations -->" | safeHTML }}
   {{ if .IsTranslated }}
   {{ range .Page.AllTranslations }}
