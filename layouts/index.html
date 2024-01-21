@@ -99,7 +99,8 @@
       </div>
     </div>
     <div class="row">
-      {{ range (where site.RegularPages "Section" "speaker") }}
+      {{ $sortedSpeakers := sort (where site.RegularPages "Section" "speaker") "Params.number" }}
+      {{ range $sortedSpeakers }}
       <div class="col-lg-3 col-md-4 col-sm-6 mb-3">
         <!-- Speaker 1 -->
         <div class="speaker-item">

@@ -1,5 +1,6 @@
 ---
 title : "Serena Cannavale"
+number : 1
 designation: "Professoressa di Filologia Classica, Dipartimento di Studi Umanistici (UniNa)"
 image: "images/speakers/serena.png"
 description : ""

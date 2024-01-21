@@ -1,5 +1,6 @@
 ---
 title : "Elsa Bouchard"
+number : 4
 page_header_bg : "images/background/homepage-one-banner.png"
 date: 2020-03-14T15:40:24+06:00
 designation: "Docente presso il dipartimento di filologia (UdeM)"

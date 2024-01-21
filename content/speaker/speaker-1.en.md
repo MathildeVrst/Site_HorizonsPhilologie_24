@@ -1,5 +1,6 @@
 ---
 title : "Serena Cannavale"
+number : 1
 designation: "Professor of classical philology at the humanities department (UniNa)"
 image: "images/speakers/serena.png"
 description : ""

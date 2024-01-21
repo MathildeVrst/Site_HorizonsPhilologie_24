@@ -1,5 +1,6 @@
 ---
 title : "Mathilde Verstraete"
+number : 2
 page_header_bg : "images/background/homepage-one-banner.png"
 date: 2020-03-14T15:40:24+06:00
 designation: "Dottoranda in Digital Humanities (UdeM)"
@@ -12,8 +13,11 @@ social:
   icon: "fa-address-card-o"
   link: "https://ecrituresnumeriques.ca/fr/Equipe/Mathilde-Verstraete"
 - name: "twitter"
-  icon: "fa-twitter"
+  icon: "fa-brands fa-x-twitter"
   link: "https://twitter.com/VrstMathilde"
+- name: "orcid"
+  icon: "fa-brands fa-orcid"
+  link: "https://orcid.org/0000-0001-6424-3229"
 # - name: "facebook"
 #   icon: "fa-facebook"
 #   link: "#"

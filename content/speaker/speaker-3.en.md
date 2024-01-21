@@ -1,5 +1,6 @@
 ---
 title : "Marcello Vitali-Rosati"
+number : 3
 page_header_bg : "images/background/homepage-one-banner.png"
 date: 2020-03-14T15:40:24+06:00
 designation: "Professeur at the Departement of French Language Literatures (UdeM)"
@@ -12,8 +13,14 @@ social:
   icon: "fa-address-card-o"
   link: "https://littfra.umontreal.ca/repertoire-departement/corps-professoral/professeur/in/in15997/sg/Marcello%20Vitali-Rosati/"
 - name: "mastodon"
-  icon: "fa-mastodon"
+  icon: "fa-brands fa-mastodon"
   link: "https://mamot.fr/@monterosato"
+- name: "orcid"
+  icon: "fa-brands fa-orcid"
+  link: "https://orcid.org/0000-0001-6424-3229"
+- name: "website"
+  icon: "fa-regular fa-comment-dots"
+  link: "https://vitalirosati.com/"
 # - name: "facebook"
 #   icon: "fa-facebook"
 #   link: "#"

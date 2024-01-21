@@ -54,13 +54,21 @@
                       {{if .time}}
                       <i class="fa fa-clock-o"></i>
                       <span class="time">{{ .time }}</span>
-                      {{end}}
                       <br>
+                      {{end}}
+                      {{if .lang}}
+                      <i class="fa fa-globe"></i>
+                      <span class="lang">{{ .lang }}</span>
+                      <br>
+                      {{end}}
                       {{if .venue}}
-                      <div>
-                        <i class="fa fa-map-marker"></i>
-                        <span class="venue">{{ .venue | markdownify }}</span>
-                      </div>
+                      <i class="fa-solid fa-location-dot"></i>
+                      <span class="venue">{{ .venue | markdownify }}</span>
+                      <br>
+                      {{ end }}
+                      {{if .laptop}}
+                      <i class="fa-solid fa-laptop"></i>
+                      <span class="laptop">{{ .laptop | markdownify }}</span>
                       {{ end }}
                       {{if .online}}
                       <div>

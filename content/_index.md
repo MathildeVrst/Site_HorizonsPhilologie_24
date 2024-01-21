@@ -60,33 +60,32 @@ sponsors:
     - name : "Université de Montréal" 
       logo : "images/Logo/UdeM.png" 
       link : "https://www.umontreal.ca/"
-    - name : "Université de Naples Federico II" 
-      logo : "images/Logo/new/UniNa.png" 
-      link : "http://www.unina.it/en_GB/home"
-    - name : "Centre de recherche interuniversitaire sur les humanités numériques"
-      logo : "images/Logo/new/CRIHN.png"
-      link : "https://www.crihn.org/"
-
     - name : "Chaire de Recherche du Canada sur les Écritures Numériques"
       logo : "images/Logo/new/CRCEN.png"
       link : "https://ecrituresnumeriques.ca/fr/"
+    - name : "Conseil de recherches en sciences humaines du Canada"
+      logo : "images/Logo/new/CRSH.png"
+      link : "https://www.sshrc-crsh.gc.ca/home-accueil-fra.aspx"
+
+    - name : "Université de Naples Federico II" 
+      logo : "images/Logo/new/UniNa.png" 
+      link : "http://www.unina.it/en_GB/home"
     - name : "Département des sciences humaines" 
       logo : "images/Logo/new/DSU2.png" 
       link : "https://www.studiumanistici.unina.it/"
-    - name : "Groupe de recherche sur les éditions critiques en contexte numérique"
-      logo : "images/Logo/new/Gren.png"
-      link : "https://gren.openum.ca/"
-    #- name : "Chaires de Recherche du Canada"
-    #  logo : "https://wpchaire.ecrituresnumeriques.ca/wp-content/uploads/2018/07/Chaire-canada-768x358.png"
-    #  link : "https://www.chairs-chaires.gc.ca/home-accueil-fra.aspx"
-
-    - name : "Conseil de recherches en sciences humaines du Canada"
-    # image à réduire
-      logo : "images/Logo/new/CRSH.png"
-      link : "https://www.sshrc-crsh.gc.ca/home-accueil-fra.aspx"
     - name : "Epigraphic Poetry in Ancient Campania" 
       logo : "images/Logo/new/Europe.png"
       link : "https://www.docenti.unina.it/#!/professor/534552454e4143414e4e4156414c45434e4e53524e38324d36334638333956/attivita_ricerca"
-    
+
+    - name : "Centre de recherche interuniversitaire sur les humanités numériques"
+      logo : "images/Logo/new/CRIHN.png"
+      link : "https://www.crihn.org/"
+    - name : "Groupe de recherche sur les éditions critiques en contexte numérique"
+      logo : "images/Logo/new/Gren.png"
+      link : "https://gren.openum.ca/"
+    - name : "RETI"
+      logo : "images/Logo/new/RETI.png"
+      link : ""
+  
 
 ---

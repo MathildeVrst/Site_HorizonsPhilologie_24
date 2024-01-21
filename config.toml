@@ -126,15 +126,15 @@ link = "https://mastodon.social/deck/@ENumeriques@mamot.fr"
 
 [[params.social]]
 title = "facebook"
-icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+icon = "fa-brands fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://www.facebook.com/ENumeriques"
 
 [[params.social]]
 title = "twitter"
-icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+icon = "fa-brands fa-x-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://twitter.com/ENumeriques"
 
 [[params.social]]
 title = "instagram"
-icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+icon = "fa-brands fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://instagram.com/enumeriques?igshid=YmMyMTA2M2Y="

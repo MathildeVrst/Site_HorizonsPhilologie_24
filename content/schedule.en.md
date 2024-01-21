@@ -10,7 +10,7 @@ slug: schedule
 ###################### Tab ####################
 tab:
   enable : true
-  title : "Schedule"
+  title : "Program [to be downloaded here (coming soon)]()"
   content : | 
     *Online talks will be broadcast live at the CRIHN (pav. Lionel-Groulx, room 8132) via [**the platform Jitsi**](https://meet.jit.si/horizons-phil-num-crcen).  
     Collaborative notes are available **here (to come)** (multilingual notes and important links).
@@ -31,12 +31,12 @@ tab:
 
     # speaker
     - speaker :
-      pause : "Welcome and breakfast"
+      pause : "Welcome Speech"
       subject :
       abstract :
       biography :
       venue :
-      time : "09.15 - 09.45"
+      time : "09.30 - 09.45"
 
     - speaker : "Organizers"
       subject : "Welcome speech"
@@ -51,6 +51,7 @@ tab:
       biography : "**Marcello Vitali-Rosati** is a professor in the Department of French Literature at the Université de Montréal and holds the Canada Research Chair in Digital Textualities. He is developing a philosophical reflection on the challenges of digital technologies: the concept of the virtual, digital identity, notions of author and authority, forms of production, legitimization and circulation of knowledge in the age of the web, and the theory of editorialization -- to which he is one of the most active contributors. He is the author of numerous articles and monographs, and also works as a publisher, editing the journal Sens public and co-directing the *Parcours Numériques* collection at the Presses de l'Université de Montréal. As holder of the Chair in Digital Textualities, he leads several projects in digital humanities, particularly in the field of scholarly publishing. These include the development of platforms for publishing enriched journals and monographs, software for editing scientific articles, and a collaborative publishing platform for the Codex Palatinus 23. <br> **Mathilde Verstraete** is a PhD student in digital humanities at the University of Montréal. After obtaining a master's degree in classical languages and literature at the Catholic University of Louvain (Belgium), she joined the Canada Research Chair on Digital Textualities to coordinate the collaborative digital edition of the Greek Anthology. Under the supervision of Marcello Vitali-Rosati and Elsa Bouchard, her research focuses on digital critical editions and the tools that produce them."
       venue : "to be determined"
       time : "10.00 - 10.30"
+      lang : "in english"
 
     - speaker : "Gustavo Fernandez (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 ‘Material Text Cultures’)"
       subject : "Text-Image Alignment as a Feature of Digital Editions"
@@ -58,6 +59,7 @@ tab:
       biography : "Gustavo Fernández Riva is a Research Associate in Digital Humanities at the University Library of Heidelberg and works mainly on technical and conceptual development in the field of Digital Editing. He was awarded a Ph.D. in comparative literature at the University of Buenos Aires in 2018. His main fields of research are written and literary practices in non-typographical societies. His current research projects include using network analysis to study shared manuscript transmission of medieval texts and the creation of an open, collaborative dataset of philological *stemmata*."
       venue : "to be determined"
       time : "10.30 - 11.00"
+      lang : "in english"
 
     - speaker : "Maxime Guénette (University of Montreal, PhD Student)" 
       subject : "Decoding Ancient Greek: New Perspectives on Handwriting Recognition via *Palatine Anthology*." 
@@ -65,6 +67,7 @@ tab:
       biography : "Maxime Guénette is a PhD student in History at the Université de Montréal. His research focuses on religions in the Roman Empire, on the sacralization of space and on ancient globalization. Since 2020, he is editor on the *Anthologia Graeca* platform, and has been working on the integration of English and French translations of epigrams, as well as keywords to identify historical figures and places, and philological notes. He has recently been involved in the IAL (\"Intelligence artificielle littéraire\") project to detect variations in the *Greek Anthology*'s corpus of epigrams. During his internship at the Canada Research Chair on Digital Textualities in Summer 2023, he also worked on the application of HTR (Handwritten Text Recognition) to the *Codex Palatinus graecus 23* using the eScriptorium platform. As a result of this internship, he trained models to recognize ancient Greek in medieval manuscripts such as the *Palatine Anthology*."
       venue : "to be determined"
       time : "11.00 - 11.30"
+      lang : "to be determined"
 
     - speaker :
       pause : "Coffee break"
@@ -80,6 +83,7 @@ tab:
       biography : "Alix Chagué is a PhD student in Digital Humanities, member of the ALMAnaCH team at Inria-Paris and part of the CRIHN at the University of Montreal, enrolled both at the University of Montréal and the École Pratique des Hautes Études (Paris). Under the supervision of Laurent Romary, Emmanuel Chateau-Dutier and Michael Sinatra, she works on the appropriation of automatic transcription tools (HTR) by the DH community and by cultural institutions. Her research focuses on the impact of training dataset composition on HTR models. Previous to her PhD, as a Research and Development engineer for Inria, she colaborated with numerous projets involving HTR, including LECTAUREP (French national archives), TIME US (ANR) and DAHN."
       venue : "to be determined"
       time : "12.00 - 12.30"
+      lang : "in english"
 
     - speaker : "Federica Nicolardi (University of Naples Federico II)"
       subject : "Reconstructing (and Deconstructing) to Read: The Role of Technology in the Edition of the Herculaneum Papyrus Scrolls"
@@ -87,6 +91,7 @@ tab:
       biography : "Federica Nicolardi is Assistant Professor of Papyrology at the University of Naples Federico II. She mainly works on Herculaneum papyri, focusing especially on new critical editions and virtual restoration. In 2018 she published the first complete edition of the papyri preserving Philodemus’ *On rhetoric* Book 1. She has just started a project funded by the Fritz Thyssen Foundation (*RECREATE – REConstructing papyrus scrolls and REcovering Ancient TExts with the aid of a new digital tool*) aimed at developing a software tool for the virtual reconstruction of papyrus scrolls. Since 2023 she is a member of the Centro Internazionale per lo Studio dei Papiri Ercolanesi ‘Marcello Gigante’. She has been collaborating with the University of Kentucky project on ‘Digital Restoration of Herculaneum Papyri’ (PI Brent Seales) supervising the spectral imaging and photogrammetry activities carried out at the Officina dei Papiri Ercolanesi (Biblioteca Nazionale di Napoli). She is part of the Papyrology team of the Vesuvius Challenge, an internationalcompetition to read the unopened Herculaneum Papyri using machine learning and computer vision techniques."
       venue : "to be determined"
       time : "12.30 - 13.00"
+      lang : "in italian" 
 
     - speaker : "Marianne Reboul (École Normale Supérieure de Lyon, Institut d'histoire des représentations et des idées dans la modernité)"
       subject : "Aligning Greek and Latin texts to French translations using Large Language Models : an experiment on classical philosophical texts"
@@ -94,6 +99,7 @@ tab:
       biography : "Marianne Reboul is a lecturer in Digital Humanities at the École Normale Supérieure de Lyon, specializing in digital humanities and classics, more precisely in “digital classics”. She works in particular on the application of artificial intelligence techniques to ancient languages."
       venue : "to be determined"
       time : "13.00 - 13.30"
+      lang : "to be determined"
 
     - speaker :
       pause : "Lunch break"
@@ -117,6 +123,8 @@ tab:
       biography : ""
       venue : "to be determined"
       time : "15.30 – 17.30"
+      lang : "in english"
+      laptop: "bring your laptop"
 
   # tab item
   - name : "Day 02"
@@ -132,7 +140,7 @@ tab:
       time :  
 
     - speaker :
-      pause : "Welcome and breakfast"
+      pause : "Welcome"
       subject :
       abstract :
       biography :
@@ -145,6 +153,7 @@ tab:
       biography : "Paolo Mastandrea has been a professor of Latin at Ca' Foscari University of Venice since 1995. He is interested in Latin poetic language, from Ennian origins to Italian versifiers of the 19<sup>th</sup> and 20<sup>th</sup> centuries; late antique historiography; the tradition of classical texts, with special attention to the cultural changes produced by the passage between antiquity and the Middle Ages. He has organised repertoires of literary works in digital form, [most of which are accessible online](http://www.mqdq.it). He co-edits the magazines [Lexis. Poetica, retorica e comunicazione nella tradizione classica](http://www.lexisonline.eu) and Studi Petrarcheschi." 
       venue : "à déterminer"
       time : "10h00 - 10h30"
+      lang : "in italian"
 
     - speaker : "Monica Berti (Leipzig University)"
       subject : "Collaborative canons and catalogs for sustainable philology in the digital environment"
@@ -152,6 +161,7 @@ tab:
       biography : Monica Berti works at Leipzig University where she teaches and conducts research in the field of digital humanities applied to ancient history and classical philology. She has been collaborating for many years with the Perseus Project and has been directing several projects concerning the indirect tradition of Greek and Latin sources with a focus on fragmentary literature. She has alsofounded the international consortium *Sunoikisis Digital Classics* for teaching digital technologies applied to the ancient world in collaboration with the Harvard's Center for Hellenic Studies and the Institute of Classical Studies in London.?" 
       venue : "à déterminer"
       time : "10.30 - 11.00"
+      lang : "in italian"
 
     - speaker : "Serena Cannavale (University of Naples Federico II) & Cristina Pepe (University of Campania *Luigi Vanvitelli*)"
       subject : "Digital Editions and Epigraphic Poetry: Reflections from the 'Epigraphic Poetry in Ancient Campania' Project"
@@ -159,6 +169,7 @@ tab:
       biography : "**Serena Cannavale** is Associate professor of Classical Philology at the Department of Humanities (*Dipartimento di Studi Umanistici*) of the University of Naples Federico II and teaches courses of Classical Philogy, History of the classical tradition and Digital classics for undergraduates, graduates and PhD students. Her main research interests are related to the Hellenistic epigrams, with a special attention to Callimachus, Greek poetry on stone, literary culture in ancient Campania and the history of classical studies. <br> **Cristina Pepe** is Associate Professor in Classical Philology at the University of Campania ‘Luigi Vanvitelli’. Her research interest focuses mainly on Greek and Roman rhetoric and its reception in modern and contemporary times, literary and epigraphic epigrams, history of classical scholarship, classics and gender studies. She is P.I. of the Project ‘Epigraphic Poetry in ancient Campania’ and member of other national and international scientific projects. She is also Associate Editor of *Rhetorica. A Journal of the History of Rhetoric*, and correspondent member of the Pontificia Accademia Romana di Archeologia." 
       venue : "à déterminer"
       time : "11.00 - 11.30"
+      lang : "à déterminer"
 
     - speaker :
       pause : "Coffee break"
@@ -174,6 +185,7 @@ tab:
       biography : "Marta Legnini is a PhD student at the University of Parma under the supervision of Massimo Magnani and Lucia Floridi. After graduating in Classical Literature at the same institution, since 2021 she has been collaborating in the Erasmus+ ENCODE project, an project for the diffusion of digital skills in the study of ancient written cultures. Her PhD research focuses on the Lyric Poets in the Meleager Crown. Her other research interests are pseudo-epigraphy and the indirect tradition of epigram."
       venue : "to be determined"
       time : "12.00 - 12.30"
+      lang : "in italian" 
 
     - speaker : "Émile Caron (University of Montreal, PhD Student)"
       subject : "Promoting critical thinking in high school history and ancient literature courses through the use of collaborative editions: the case of the *Greek Anthology*"
@@ -181,13 +193,15 @@ tab:
       biography : "Émile Caron holds a master's degree in Classical Studies and a graduate certificate in Digital Humanity from the Université de Montréal. He is currently a PhD student in Educational Sciences in the Department of Didactics at the same university, where his research focuses on the engagement of critical thinking in the study of ancient civilizations through the reading of ancient sources, and on the adaptation of ancient documents through the study of curricula. Émile is also interested in the place of classical culture in Quebec and Canada through a comparative approach to European school curricula (Italy, France, Germany...). He is currently a student researcher at the Laboratoire de Recherche en Didactique de l'Histoire in the Faculty of Education at the Université de Montréal, where his research is directed by Prof. Marc-André Éthier."
       venue : "to be determined"
       time : "12.30 - 13.00"
+      lang : "in french"
 
     - speaker : "Annalisa Divincenzo (Liceo classico Luca De Samuele Cagnazzi, Altamura)"
-      subject : "The study of Ancient Greek in Italian secondary schools: between rigour of the \"apocalyptists\" and innovative will of the \"integrators\", a fascinating Forge of philology on \"Palatine Antology\""
+      subject : "The study of Ancient Greek in Italian secondary schools: between rigour of the \"apocalyptists\" and innovative will of the \"integrators\", a fascinating Forge of philology on the *Palatine Antology*"
       abstract : "To come"
       biography : "Annalisa Divincenzo, PhD in Greek and Latin Philology, has been teaching Classics at the Liceo Classico Luca de Samuele Cagnazzi in Altamura since 2005. Following a specialization in software development for didactics, her teaching methods are motivated by the inclusion of digital tools in the classroom. For several years, the project of *the digital and collaborative edition of the Greek Anthology* (CRCEN) has benefitted from important contributions thanks to the involvement of her students in the editing process on the project’s platform."
       venue : "to be determined"
       time : "13.00 - 13.30"
+      lang : "in italian" 
 
     - speaker :
       pause : "Lunch break"
@@ -211,6 +225,8 @@ tab:
       biography : ""
       venue : "to be determined"
       time : "15.30 - 17.30"
+      lang : "in english" 
+      laptop: "bring your laptop"
 
     - speaker :
       pause : "Aperitivo"
@@ -235,7 +251,7 @@ tab:
       time :  
 
     - speaker :
-      pause : "Welcome and breakfast"
+      pause : "Welcome"
       subject :
       abstract :
       biography :
@@ -249,6 +265,7 @@ tab:
       biography : "Giovan Battista D'Alessio, after his formation at the Scuola Normale Superiore di Pisa, spent 3 years as the first Arnaldo Momigliano Research Fellow at University College, London. He has subsequently been Lecturer and Associate Professor of Greek Literature at the University of Messina (up to 2007); and Professor of Greek Language and Literature at King's College, London (2007-2014). He is now Professor of Classical Philology at the University of Naples \"Federico II\". During these periods he has regularly and intensively taught on various Classics- related subjects and supervised several undergraduate and postgraduate students. His research interests have focused mainly on Greek poetry, with particular attention to Greek Lyric and Hellenistic poetry and on Greek Literary papyri. Publication list available at [this adress](https://www.iris.unina.it/cris/rp/rp16792?sortBy=2&order=DESC&type=all)."
       venue : "to be determined"
       time : "10.00 - 10.30"
+      lang : "in english"
 
     - speaker : "Valentina Garulli (Alma Mater Studiorum, University of Bologna)"
       subject : "'The medium is the message'? Essay on the ecdotics of epigrams from multiple traditions."
@@ -256,6 +273,7 @@ tab:
       biography : "Valentina Garulli is Associate Professor of Greek Language and Literature at Bologna University and teaches courses of Greek Language and Greek Grammar for undergraduates, graduates and PhD students. Her main research interests include Greek and Latin poetry on stone, Greek and Latin epigram, the new and the old Posidippus, Hellenistic poetry. Other research themes are Callimachus, ancient biography, history of classical scholarship, didactics of ancient Greek."
       venue : "to be determined"
       time : "10.30 - 11.00"
+      lang : "in italian"
 
     - speaker : "Lucia Floridi (Alma Mater Studiorum, University of Bologna)" 
       subject : "Epigrams, anthologies, critical editions. For a rethinking of the publishing tradition of *Anthologia Graeca*" 
@@ -263,6 +281,7 @@ tab:
       biography : "Lucia Floridi is a Professor of Classical and Late Antique Philology at the Department of Classical Philology and Italian studies of the Alma Mater Studiorum - University of Bologna. Her main research interests are Greek and Latin epigrams, with a focus on the erotic and scoptic genres, Hellenistic poetry, prose poetry of the Imperial Age, and the relationship between literature and visual arts. Among her major publications are Stratone di Sardi. Epigrammi (Edizioni Dell’Orso, 2007), Lucillio. Epigrammi (De Gruyter, 2014), Edilo. Epigrammi (De Gruyter, 2020), as well as numerous contributions on authors such as Palladas, Ausonius, Longo Sophista, and Lucian. Her recent publications include the miscellaneous volume *Intervisuality. New Approaches to Greek Literature* (with Andrea Capra; De Gruyter, 2023) and the commented critical edition of the treatise *On the Seven Wonders* attributed to Philo of Byzantium (with Federico Condello; De Gruyter, 2023)."
       venue : "to be determined"
       time : "11.00 - 11.30"
+      lang : "in italian"
 
     - speaker :
       pause : "Coffee break"
@@ -278,6 +297,7 @@ tab:
       biography : "Simone Beta is Professor of Greek language and literature at the University of Siena. He is the author of numerous monographs and articles on multiple topics such as ancient theatre, rhetoric, epigrammatic poetry (especially enigmas and oracles) and reception of classical culture in the modern era. Regarding comedy, he has mostly worked on Aristophanes and his adpatations (on the history of the Lysistrata character, see *La donna che sconfigge la guerra. Lisistrata racconta la sua storia*, 2022). Among his latest publications, we cite *Io, un manoscritto: l’Antologia Palatina si racconta* (2017) – which has been translated in french and published by Les Belles Lettres (2019) – and *Il labirinto della parola. Enigmi, oracoli e sogni nella cultura antica* (2016)."
       venue : "to be determined"
       time : "12.00 - 12.30"
+      lang: "in italian"
 
     - speaker : "Elsa Bouchard (University of Montreal)"
       subject : "Between the symposium and the countryside: the epigrammatic *topoi* of Theocritus’ 7<sup>th</sup> Idyll"
@@ -285,6 +305,7 @@ tab:
       biography : "Elsa Bouchard has been a professor of Greek language and literature at the University of Montreal (Department of Philosophy / Centre for Classical Studies) since 2012. Her research interests range from ancient philosophy to Greek literature and religion, including poetics and rhetoric."
       venue : "to be determined"
       time : "12.30 - 13.00"
+      lang : "in english"
 
     - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
       subject : "To come"
@@ -292,6 +313,7 @@ tab:
       biography : "As a research fellow, Robert Alessi holds an academic position at the French CNRS Joint Research Unit “Orient & Méditerranée” (UMR 8167, Paris, France). His research concentrates on the edition of Greek and Arabic medical texts, on the history of medicine, but also on computing applied to classical studies."
       venue : "to be determined"
       time : "13.00 - 13.30"
+      lang : "to be determined"
 
     - speaker :
       pause : "Lunch break"
@@ -310,10 +332,12 @@ tab:
       time :   
 
     - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
-      subject : "Workshop - ekdosis in a single-source publishing chain in digital critical editing"
+      subject : "Workshop - Ekdosis in a single-source publishing chain in digital critical editing"
       abstract : "Whether the critical edition is digital or printed, it must preserve the traditional form of the apparatus criticus as it is inherited from over two centuries of continuous tradition. We understand it as a paragraph written in Latin with nuance and economy of style. Admittedly, this way of writing is immediately accessible to human intelligence. However, it remains incomprehensible to machines. In this workshop, we will show through concrete examples how ekdosis can be used as a starting point in a “single source publishing” editorial chain. From a simple, structured source code, ekdosis can be asked to produce two completely different outputs in a single operation: one intended for traditional printing, with fully written critical notes, and the other in the form of a TEI xml database directly interpretable by machines."
       biography : "As a research fellow, Robert Alessi holds an academic position at the French CNRS Joint Research Unit “Orient & Méditerranée” (UMR 8167, Paris, France). His research concentrates on the edition of Greek and Arabic medical texts, on the history of medicine, but also on computing applied to classical studies."
       venue : "to be determined"
       time : "15.30 – 17.30"
+      lang : "in english"
+      laptop: "bring your laptop"
 
 ---
