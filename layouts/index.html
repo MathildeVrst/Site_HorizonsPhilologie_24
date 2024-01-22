@@ -6,17 +6,63 @@
 {{ if .Params.banner.enable}}
 {{ with .Params.banner}}
 <section class="banner bg-banner-one overlay">
+
+  <!-- Coundown Timer -->
+  {{ if .timer.enable }}
+  {{ with .timer }}
+  <div class="timer" data-year="{{.year}}" data-month="{{.month}}" data-day="{{.day}}"></div>
+
+  <script>
+    /**
+     * Barre de navigation qui est `fixed` (collée en haut de l'écran,
+     * peu importe le défilement). On s'en servira pour établir la
+     * hauteur libre nécessaire.
+     * @type {HTMLElement}
+     */
+    const navbarElem = document.querySelector('.navbar.fixed-top');
+    /**
+     * @type {HTMLElement}
+     */
+    const timerElem = document.querySelector('.timer');
+    /**
+     * @type {Number}
+     */
+    let navbarHeight = 0;
+
+    // établir la hauteur
+    calcHauteur();
+
+    // recalculer lorsque la fenêtre est redimensionnée
+    window.addEventListener('resize', () => {
+      calcHauteur();
+    });
+
+    ///////////////
+
+    /**
+     * Établir la hauteur de la barre de navigation
+     */
+    function calcHauteur() {
+      // arrêter si on n'a pas une barre de navigation valide
+      if (!navbarElem) {
+        console.warn('Pas d\'élément navbarElem.')
+        return;
+      }
+      navbarHeight = navbarElem.clientHeight;
+      console.log(`navbarHeight: ${navbarHeight}`)
+      timerElem.setAttribute('style', `--navbar-height: ${navbarHeight}px`);
+
+    }
+
+  </script>
+  {{ end }}
+  {{ end }}
+
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
         <!-- Content Block -->
         <div class="block">
-          <!-- Coundown Timer -->
-          {{ if .timer.enable }}
-          {{ with .timer }}
-          <div class="timer" data-year="{{.year}}" data-month="{{.month}}" data-day="{{.day}}"></div>
-          {{ end }}
-          {{ end }}
 <!--           <div class="calque">-->
           {{with .heading}}<h1>{{ . | markdownify }}</h1>{{end}}
           {{with .heading_2}}<h2>{{ . | markdownify }}</h2>{{end}}
