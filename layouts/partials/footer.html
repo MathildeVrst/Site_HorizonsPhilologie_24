@@ -54,8 +54,9 @@
 		<ul class="address-list p-0 m-0"> 
 			<li><i class="fa-solid fa-building-columns"></i><span>{{ site.Params.batiment | markdownify }}</span></li>
 			<li><i class="fa-solid fa-compass"></i><span>{{ site.Params.location | markdownify }}</span></li>
-			<li><i class="fa fa-subway"></i><span>{{ site.Params.metro | markdownify}}</span></li>
-			<li><i class="fa fa-bus"></i><span>{{ site.Params.bus | markdownify}}</span></li>
+			<li><i class="fa-solid fa-chalkboard-user"></i><span>{{ site.Params.room | markdownify }}</span></li>
+			<!--<li><i class="fa fa-subway"></i><span>{{ site.Params.metro | markdownify}}</span></li>
+			<li><i class="fa fa-bus"></i><span>{{ site.Params.bus | markdownify}}</span></li>-->
 		</ul>
 		<a href="{{ .link | absURL }}" class="btn btn-white-md">{{ i18n "Get Direction" }}</a>
 	</div>

@@ -10,9 +10,10 @@
     copyright = "Thème conçu par [Themefisher](https://themefisher.com/), développé par [Gethugothemes](https://gethugothemes.com/) et adapté par la [CRCEN](https://ecrituresnumeriques.ca)"
     name = "Università degli Studi di Napoli Federico II"
     batiment = "Dipartimento di Studi Umanistici"
-    location = "Via Porta di Massa, 1, 80133 Napoli NA"
-    metro = "à venir"
-    bus = "à venir"
+    location = "Via Porta di Massa, 1, 80133 Napoli NA" 
+    room = "Aula ex-cataloghi lignei"
+    #metro = "à venir"
+    #bus = "à venir"
 
 [it]
   title = "Orizzonti della filologia digitale"
@@ -24,8 +25,9 @@
     name = "Università degli Studi di Napoli Federico II"
     batiment = "Dipartimento di Studi Umanistici"
     location = "Via Porta di Massa, 1, 80133 Napoli NA"
-    metro = "Prossimamente"
-    bus = "Prossimamente"  
+    room = "Aula ex-cataloghi lignei"
+    #metro = "Prossimamente"
+    #bus = "Prossimamente"  
 
 [en]
   title = "Horizons of digital philology"
@@ -37,5 +39,6 @@
     name = "Università degli Studi di Napoli Federico II"
     batiment = "Dipartimento di Studi Umanistici"
     location = "Via Porta di Massa, 1, 80133 Napoli NA"
-    metro = "To come"
-    bus = "To come"  
+    room = "Aula ex-cataloghi lignei"
+    #metro = "To come"
+    #bus = "To come"  
