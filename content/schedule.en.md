@@ -100,7 +100,7 @@ tab:
       biography : "Marianne Reboul is a lecturer in Digital Humanities at the École Normale Supérieure de Lyon, specializing in digital humanities and classics, more precisely in “digital classics”. She works in particular on the application of artificial intelligence techniques to ancient languages."
       #venue : "to be determined"
       time : "13.00 - 13.30"
-      lang : "to be determined"
+      lang : "in english"
 
     - speaker :
       pause : "Lunch break"
@@ -170,7 +170,7 @@ tab:
       biography : "**Serena Cannavale** is Associate professor of Classical Philology at the Department of Humanities (*Dipartimento di Studi Umanistici*) of the University of Naples Federico II and teaches courses of Classical Philogy, History of the classical tradition and Digital classics for undergraduates, graduates and PhD students. Her main research interests are related to the Hellenistic epigrams, with a special attention to Callimachus, Greek poetry on stone, literary culture in ancient Campania and the history of classical studies. <br> **Cristina Pepe** is Associate Professor in Classical Philology at the University of Campania ‘Luigi Vanvitelli’. Her research interest focuses mainly on Greek and Roman rhetoric and its reception in modern and contemporary times, literary and epigraphic epigrams, history of classical scholarship, classics and gender studies. She is P.I. of the Project ‘Epigraphic Poetry in ancient Campania’ and member of other national and international scientific projects. She is also Associate Editor of *Rhetorica. A Journal of the History of Rhetoric*, and correspondent member of the Pontificia Accademia Romana di Archeologia." 
       #venue : "to be determined"
       time : "11.00 - 11.30"
-      lang : "à déterminer"
+      lang : "in italian" 
 
     - speaker :
       pause : "Coffee break"

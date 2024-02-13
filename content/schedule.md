@@ -100,7 +100,7 @@ tab:
       biographie : "Marianne Reboul est maîtresse de conférences en humanités numériques à l’École Normale Supérieure de Lyon, spécialisée en humanités numériques et en lettres classiques, plus précisément en *digital classics*. Elle travaille en particulier sur l’application des techniques d’intelligence artificielle aux langues anciennes." 
       #venue : "à déterminer"
       time : "13h00 - 13h30"
-      lang : "à déterminer"
+      lang : "en anglais"
 
     - speaker :
       pause : "Pause Déjeuner"
@@ -170,7 +170,7 @@ tab:
       biographie : "**Serena Cannavale** est professeure associée de philologie classique au Département de sciences humaines (*Dipartimento di Studi Umanistici*) de l’Université de Naples Federico II, où elle enseigne la philologie classique, l'histoire de la philologie et de la tradition classique, ainsi que l'informatique appliquée aux langues et littératures classiques (et ce, aux étudiants des cours de licence, de maîtrise et de doctorat). Ses recherches portent sur les épigrammes hellénistiques, en particulier sur Callimaque, sur la poésie épigraphique grecque, la culture littéraire de la Campanie antique et l’histoire des études classiques. <br>  **Cristina Pepe** est professeure associé en philologie classique à l’Université de Campanie ‘Luigi Vanvitelli’. Ses recherches portent sur la rhétorique grecque et romaine et sa réception à l'époque moderne et contemporaine, l'épigramme dans la tradition littéraire et épigraphique, l'histoire de la philologie classique et la relation entre les études classiques et les *gender studies*. Elle est la responsable scientifique du projet ‘Epigraphic Poetry in ancient Campania’ et collabore à d'autres projets de recherche nationaux et internationaux. Elle est également *Associate Editor* de *Rhetorica. A Journal of the History of Rhetoric*, et membre correspondant de la Pontificia Accademia Romana di Archeologia."
       #venue : "à déterminer"
       time : "11h00 - 11h30"
-      lang : "à déterminer"
+      lang : "en italien"
 
     - speaker :
       pause : "Pause café"

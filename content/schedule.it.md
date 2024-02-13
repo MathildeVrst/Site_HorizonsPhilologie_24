@@ -100,7 +100,7 @@ tab:
       biografia : "Marianne Reboul è docente di Digital Humanities presso l'École Normale Supérieure di Lione, specializzata in Digital Humanities e Classici, più precisamente in *digital classics*. Lavora in particolare sull'applicazione delle tecniche di intelligenza artificiale alle lingue antiche."
       #venue : "da determinare"
       time : "13.00 - 13.30"
-      lang : "da determinare"
+      lang : "in inglese"
 
     - speaker :
       pause : "Pausa pranzo"
@@ -170,7 +170,7 @@ tab:
       biografia : "**Serena Cannavale** è professoressa associata di Filologia classica presso il Dipartimento di Studi Umanistici dell’Università di Napoli Federico II, dove insegna Filologia classica, Storia della filologia e della tradizione classica e Informatica delle lingue e delle Letterature classiche a studenti di Corsi di studio triennali, magistrali e di Dottorato. I suoi interessi di ricerca riguardano gli epigrammi ellenistici, con particolare attenzione a Callimaco, la poesia epigrafica greca, la cultura letteraria della Campania antica e la storia degli studi classici. <br> **Cristina Pepe** è Professoressa Associata di Filologia Classica all’Università della Campania ‘Luigi Vanvitelli’. I suoi interessi di ricerca vertono soprattutto sulla retorica greca e romana e la sua ricezione in età moderna e contemporanea, l’epigramma di tradizione letteraria ed epigrafica, la storia della filologia classica e il rapporto tra studi classici e *gender studies*. È responsabile scientifico del progetto ‘Epigraphic Poetry in ancient Campania’ e collabora ad altri progetti di ricerca nazionali e internazionali. È inoltre Associate Editor della rivista *Rhetorica. A Journal of the History of Rhetoric* e socia corrispondente della Pontificia Accademia Romana di Archeologia." 
       #venue : "da determinare"
       time : "11.00 - 11.30"
-      lang : "à déterminer"
+      lang : "in italiano" 
 
     - speaker :
       pause : "Na' tazzulella e' cafè"
