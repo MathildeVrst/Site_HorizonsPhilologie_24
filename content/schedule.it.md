@@ -257,14 +257,14 @@ tab:
       abstract :
       biografia :
       venue :
-      time : "09.45 - 10.00"
+      time : "09.15 - 09.30"
 
     - speaker : "Giambattista D'Alessio (Università degli Studi di Napoli Federico II)"
       subject : "Problemi ecdotici di testi ‘intricati’ : il caso di P. Oxy. IV 659 (Pindaro, Partenii) e 662 (Antologia di epigrammi)"
       abstract: "In questo contributo esamino le complesse implicazioni reciproche che entrano in gioco nell’edizione dei testi copiati sul recto e il verso di un papiro di Ossirinco conservato ora nella British Library, prendendo in considerazione anche la questione delle condizioni materiali del supporto."
       biografia : "Giovan Battista D'Alessio, dopo una formazione alla Scuola Normale Superiore di Pisa, ha trascorso 3 anni come primo Research Fellow di Arnaldo Momigliano all'University College di Londra. Successivamente è stato docente e professore associato di Letteratura greca all'Università di Messina (fino al 2007) e professore di Lingua e letteratura greca al King's College di Londra (2007-2014). È attualmente professore di Filologia classica presso l'Università di Napoli \"Federico II\". Durante questi periodi ha insegnato regolarmente e intensamente su varie materie classiche e ha supervisionato diversi studenti universitari di primo, secondo e terzo ciclo. I suoi interessi di ricerca si sono concentrati principalmente sulla poesia greca, con particolare attenzione alla poesia lirica ed ellenistica e ai papiri letterari greci. L'elenco delle pubblicazioni è disponibile a [questo indirizzo](https://www.iris.unina.it/cris/rp/rp16792?sortBy=2&order=DESC&type=all)."
       #venue : "da determinare"
-      time : "10.00 - 10.30"
+      time : "09.30 - 10.00"
       lang : "in inglese"
 
     - speaker : "Valentina Garulli (Alma Mater Studiorum, Università di Bologna)"
@@ -272,7 +272,7 @@ tab:
       abstract: "Nell’ecdotica degli epigrammi greci antichi, forse più che per qualsiasi altro genere, il *medium* ha una rilevanza difficilmente trascurabile: se è vero che quello epigrammatico è il genere poetico scritto *par excellence*, il supporto della scrittura dovrà essere considerato più che mai parte integrante del messaggio. Che cosa succede dunque quando uno stesso epigramma si conserva su diversi supporti e in diversi contesti di trasmissione? Quali sono i punti fermi da tenere presenti nell’edizione di questi testi e quale peso dare nella *constitutio textus* alla storia che essi mostrano di avere attraversato? Si intendono esaminare alcuni casi rappresentativi di tali situazioni per formulare alcune riflessioni di taglio epistemologico e metodologico."
       biografia : "Valentina Garulli è Professoressa Associata di Lingua e Letteratura Greca presso l’Alma Mater Studiorum–Università di Bologna, dove insegna Lingua Greca e Grammatica Greca per studenti iscritti a corsi di laurea di I e II ciclo e a Dottorandi. I suoi principali interessi di ricerca riguardano la poesia greca e latina su pietra, l’epigramma greco e latino, il vecchio e il nuovo Posidippo, la poesia ellenistica. Altri temi di ricerca sono Callimaco, la biografia antica, la storia della filologia classica, la didattica del greco antico."
       #venue : "da determinare"
-      time : "10h30 - 11h00"
+      time : "10.00 - 10.30"
       lang : "in italiano"
 
     - speaker : "Lucia Floridi (Alma Mater Studiorum, Università di Bologna)"
@@ -280,7 +280,7 @@ tab:
       abstract: "In questo contributo intendo in primo luogo riflettere su cosa significhi proporre un’edizione critica di testi epigrammatici, soffermandomi sulle modalità di trasmissione dell’epigramma dall’età ellenistica a oggi e tracciando una breve storia editoriale dell’*Anthologia Graeca*. Metterò in luce come la prassi editoriale invalsa a partire dalla prima metà del XIX secolo sia discutibile sul piano metodologico e bisognosa di un ripensamento. Proporrò quindi dei criteri alternativi di edizione. Rileverò poi l’opportunità di approntare edizioni anche delle singole antologie epigrammatiche giunte fino ai nostri giorni, a partire dalla *Planudea*, la cui organizzazione interna riflette un preciso progetto editoriale, meritevole di essere apprezzato nella sua globalità. Concluderò con qualche esempio degli specifici problemi che l’editore di una Silloge Minore può trovarsi ad affrontare, attingendo principalmente alla mia edizione *in fieri* della *Sylloge Parisina*. L’intento è quello di indicare alcune possibili direzioni di ricerca per i prossimi studi epigrammatici."
       biografia : "Lucia Floridi è docente di Filologia classica e tardoantica presso il Dipartimento di Filologia classica e Italianistica dell'Alma Mater Studiorum - Università di Bologna. I suoi principali interessi di ricerca sono gli epigrammi greci e latini, con particolare attenzione ai generi erotico e scopico, la poesia ellenistica, la prosa d’arte di età imperiale e il rapporto tra letteratura e arti visive. Ha realizzato diverse edizioni critiche di autori di epigrammi, tra cui Stratone di Sardi (Edizioni Dell'Orso, 2007), Lucillio (De Gruyter, 2014) ed Edilo (De Gruyter, 2020), oltre a numerosi lavori su autori come Pallada, Ausonio, Longo, Luciano, Filostrato Maggiore. Tra le sue pubblicazioni recenti, si segnalano il volume miscellaneo *Intervisuality. New Approaches to Greek Literature* (con Andrea Capra; De Gruyter, 2023) e l'edizione critica commentata del trattato *Sulle sette meraviglie* attribuito a Filone di Bisanzio (con Federico Condello; De Gruyter, 2023)."
       #venue : "da determinare"
-      time : "11.00 - 11.30"
+      time : "10.30 - 11.00"
       lang : "in italiano"
 
     - speaker :
@@ -289,14 +289,14 @@ tab:
       abstract :
       biografia :
       venue :
-      time : "11.30 - 12.00"      
+      time : "11.00 - 11.30"      
 
     - speaker : "Simone Beta (Università degli Studi di Siena)"
       subject : "L'edizione degli indovinelli greci: domande e risposte"
       abstract : "La pubblicazione degli indovinelli greci, soprattutto quelli composti nel periodo bizantino, è tutt'altro che semplice. Il medesimo testo si presenta infatti molto spesso in forma molto diversa a seconda dei manoscritti che lo riportano: non ci troviamo di fronte alle tipiche varianti testuali che si riscontrano in altre composizioni simili (gli epigrammi, per esempio), spesso limitate a singole parole, ma a differenze molto più significative, che possono riguardare anche versi interi. Dopo aver presentato alcuni esempi di queste varianti, la relazione proporrà alcune possibilità di edizione, che potrebbero trarre un grande vantaggio dalle nuove tecnologie."
       biografia : "Simone Beta è professore di lingua e letteratura greca all’Università di Siena. Ha scritto numerosi libri e articoli su argomenti come il teatro antico, la retorica, la poesia epigrammatica (soprattutto gli enigmi e gli oracoli) e la fortuna della cultura classica nell’età moderna. Per quel che riguarda la commedia, ha lavorato soprattuto su Aristofane (sulla storia del personaggio di Lysistrata, vedi *La donna che sconfigge la guerra. Lisistrata racconta la sua storia*, 2022). Tra le sue ultime pubblicazioni ricordiamo *Io, un manoscritto: l’Antologia Palatina si racconta* (2017) – che è stato tradotto in francese dalla casa editrice Les Belles Lettres (2019) – e *Il labirinto della parola. Enigmi, oracoli e sogni nella cultura antica* (2016)."
       #venue : "da determinare"
-      time : "12.00 - 12.30"
+      time : "11.30 - 12.00"
       lang: "in italiano"
 
 
@@ -305,16 +305,22 @@ tab:
       abstract : "Il 7<sup>e</sup> Idillio di Teocrito è conosciuto per la sua sezione centrale che contiene due brevi canti eseguiti da cantori bucolici, entrambi riferiti a frammenti di storie e situazioni suggestive che sembrano debolmente legate tra loro. In uno scritto ampiamente ignorato e pubblicato nel 1959, François Lasserre avanza l'ipotesi che questi canti siano in realtà un coacervo di riferimenti a epigrammi composti da varie persone e che gli stessi epigrammi facessero parte di un'antologia (presumibilmente chiamata Σωρός) pubblicata da un gruppo di poeti associati al circolo alessandrino di poesia d'avanguardia. Lo scopo di questo intervento è duplice. In primo luogo, esamino nuovamente le prove addotte da Lasserre riguardo alle fonti epigrammatiche dell'Idillio 7 e propongo alcune modifiche alla sua teoria. In secondo luogo, indago la natura intermediale dell'uso da parte di Teocrito di un formato epigrammatico-antologico *all'interno* di un'opera come l'Idillio 7, che altrimenti si presenterebbe come una chiara composizione di poesia bucolica."
       biografia : "Dal 2012, Elsa Bouchard è professoressa di lingua e letteratura greca presso l'Université de Montréal (Dipartimento di Filosofia/Centro di Studi Classici). I suoi interessi di ricerca riguardano la filosofia antica, la letteratura greca e la religione, comprese la poetica e la retorica."
       #venue : "da determinare"
-      time : "12.30 - 13.00"
+      time : "12.00 - 12.30"
       lang : "in inglese"
+
+    - speaker : "Alessia Borriello (Università degli Studi di Roma 'Tor Vergata', dottoranda)" 
+      subject : "Collazione dei testimoni dell’Appendix Barberino-Vaticana attraverso ChrysoCollate" 
+      abstract: "Con il presente contributo si presenta una collazione inedita dei testimoni di una delle cosiddette Sillogi Minori dell’*Anthologia Graeca*, l’*Appendix Barberino-Vaticana*. La collazione è stata effettuata con l’ausilio del *freeware* ChrysoCollate, sviluppato da Sebastien Moureau. La tavola di collazione ha permesso di ottimizzare i tempi di raccolta e analisi dei dati, attraverso il completamento predittivo delle lezioni dei testimoni, la giustapposizione sinottica di lezioni e commenti, l’esportazione dei risultati in formato ‘.odt’. <br> La conformazione antologica dell’*Appendix* ben si è prestata all’uso del programma\: ogni epigramma ha costituito una cellula di lavoro, divisa per parole o sintagmi. La collazione ha portato a revisionare lo *stemma codicum* della *Silloge* sinora proposto dagli studiosi, i quali si sono basati su dati di collazione parzialmente inesatti, ripetuti a partire dall’edizione di riferimento di Leo Sternbach del 1890. L’edizione ottocentesca della Silloge si basava inoltre su due soli dei quattro testimoni oggi noti, tutti presi in esame nella presente analisi."
+      biografia : "Alessia Borriello si è formata in Filologia, Letteratura e Tradizione Classica all’Alma Mater Studiorum – Università di Bologna, e attualmente svolge un dottorato di ricerca in 'Antichità Classiche e Loro Fortuna\: Archeologia, Filologia, Storia' presso l’Università degli Studi di Roma 'Tor Vergata', con la supervisione dei professori Emanuele Dettori (Uniroma2) e Lucia Floridi (Unibo). Il suo progetto verte sulla tradizione antologica dell’epigramma greco, in particolare sull’Appendix Barberino-Vaticana, di cui ha in preparazione una nuova edizione critica con traduzione e introduzione a carattere filologico e letterario." 
+      time : "12.30 - 13.00"
+      lang : "in italiano"
 
     - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
       subject : "prossimamente"
       abstract: "prossimamente"
       biografia : "Robert Alessi è ricercatore presso l'Unità di ricerca congiunta del CNRS “Orient & Méditerranée” (UMR 8167, Parigi, Francia). La sua ricerca si concentra sull'edizione dei testi medici greci e arabi, sulla storia della medicina, ma anche sull'informatica applicata agli studi classici."
-      #venue : "da determinare"
       time : "13.00 - 13.30"
-      lang : "da determinare"
+      lang : "in francese"
 
     - speaker :
       pause : "Pausa pranzo"

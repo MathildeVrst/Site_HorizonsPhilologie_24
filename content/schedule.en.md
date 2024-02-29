@@ -257,7 +257,7 @@ tab:
       abstract :
       biography :
       venue :
-      time : "09.45 - 10.00"
+      time : "09.15 - 10.30"
 
 
     - speaker : "Giambattista D'Alessio (University of Naples Federico II)"
@@ -265,7 +265,7 @@ tab:
       abstract: "In this contribution I examine the complex reciprocal implications that come into play in the edition of texts copied on the recto and verso of a papyrus from Oxyrhynchus now preserved in the British Library, also considering the question of the material condition of the medium."
       biography : "Giovan Battista D'Alessio, after his formation at the Scuola Normale Superiore di Pisa, spent 3 years as the first Arnaldo Momigliano Research Fellow at University College, London. He has subsequently been Lecturer and Associate Professor of Greek Literature at the University of Messina (up to 2007); and Professor of Greek Language and Literature at King's College, London (2007-2014). He is now Professor of Classical Philology at the University of Naples \"Federico II\". During these periods he has regularly and intensively taught on various Classics- related subjects and supervised several undergraduate and postgraduate students. His research interests have focused mainly on Greek poetry, with particular attention to Greek Lyric and Hellenistic poetry and on Greek Literary papyri. Publication list available at [this adress](https://www.iris.unina.it/cris/rp/rp16792?sortBy=2&order=DESC&type=all)."
       #venue : "to be determined"
-      time : "10.00 - 10.30"
+      time : "09.30 - 10.00"
       lang : "in english"
 
     - speaker : "Valentina Garulli (Alma Mater Studiorum, University of Bologna)"
@@ -273,7 +273,7 @@ tab:
       abstract: "In editing ancient Greek epigrams, more than any other type of texts, the *medium* holds an undeniable value: since epigram is the written genre *par excellence*, the material context has to be regarded as an integral part of the message. What happens when the same epigram is preserved in more than one contexts of transmission? What are the fundamental points in editing these texts and what should be the role of their history in the *constitutio textus*? A few representative examples will be examined, in order to make some epistemological and methodological remarks."
       biography : "Valentina Garulli is Associate Professor of Greek Language and Literature at Bologna University and teaches courses of Greek Language and Greek Grammar for undergraduates, graduates and PhD students. Her main research interests include Greek and Latin poetry on stone, Greek and Latin epigram, the new and the old Posidippus, Hellenistic poetry. Other research themes are Callimachus, ancient biography, history of classical scholarship, didactics of ancient Greek."
       #venue : "to be determined"
-      time : "10.30 - 11.00"
+      time : "10.00 - 10.30"
       lang : "in italian"
 
     - speaker : "Lucia Floridi (Alma Mater Studiorum, University of Bologna)" 
@@ -281,7 +281,7 @@ tab:
       abstract: "In this paper, I first consider what does it mean to produce a critical edition of epigrammatic texts, focusing on the ways epigrams have been transmitted from the Hellenistic age to the present day and outlining a brief editorial history of the *Anthologia Graeca*. I will highlight how the editorial praxis established since the first half of the 19<sup>th</sup> century is questionable from a methodological point of view and in need of rethinking. I will therefore present alternative criteria for publishing. I will then emphasise the relevance of the editions of each of the epigrammatic anthologies that have survived to this day, starting with the *Planudea*, whose inner organisation is the result of a precise editorial project that deserves to be fully valued. I will conclude with a few examples of the specific problems that an editor of a Sylloge Minore may encounter, mainly based on my *ongoing* edition of the *Sylloge Parisina*. This is intended to indicate some possible research directions for future epigrammatic studies." 
       biography : "Lucia Floridi is a Professor of Classical and Late Antique Philology at the Department of Classical Philology and Italian studies of the Alma Mater Studiorum - University of Bologna. Her main research interests are Greek and Latin epigrams, with a focus on the erotic and scoptic genres, Hellenistic poetry, prose poetry of the Imperial Age, and the relationship between literature and visual arts. Among her major publications are Stratone di Sardi. Epigrammi (Edizioni Dell’Orso, 2007), Lucillio. Epigrammi (De Gruyter, 2014), Edilo. Epigrammi (De Gruyter, 2020), as well as numerous contributions on authors such as Palladas, Ausonius, Longo Sophista, and Lucian. Her recent publications include the miscellaneous volume *Intervisuality. New Approaches to Greek Literature* (with Andrea Capra; De Gruyter, 2023) and the commented critical edition of the treatise *On the Seven Wonders* attributed to Philo of Byzantium (with Federico Condello; De Gruyter, 2023)."
       #venue : "to be determined"
-      time : "11.00 - 11.30"
+      time : "10.30 - 11.00"
       lang : "in italian"
 
     - speaker :
@@ -290,14 +290,14 @@ tab:
       abstract :
       biography :
       venue :
-      time : "11.30 - 12.00"      
+      time : "11.00 - 11.30"      
 
     - speaker : "Simone Beta (University of Siena)"
       subject : "On How to edit Greek Riddles : Questions and Answers"
       abstract : "The edition of Greek riddles, especially those composed during the Byzantine period, is often troublesome. In fact, the same text is sometimes witnessed in quite different versions depending on the manuscripts in which it appears: we do not find the typical textual variants present in other similar compositions (epigrams, for example), often limited to a single word, but with much more significant differences, which may even concern one or more verses. After presenting some examples of these variants, the paper will propose some publishing possibilities, which could benefit greatly from new technologies."
       biography : "Simone Beta is Professor of Greek language and literature at the University of Siena. He is the author of numerous monographs and articles on multiple topics such as ancient theatre, rhetoric, epigrammatic poetry (especially enigmas and oracles) and reception of classical culture in the modern era. Regarding comedy, he has mostly worked on Aristophanes and his adpatations (on the history of the Lysistrata character, see *La donna che sconfigge la guerra. Lisistrata racconta la sua storia*, 2022). Among his latest publications, we cite *Io, un manoscritto: l’Antologia Palatina si racconta* (2017) – which has been translated in french and published by Les Belles Lettres (2019) – and *Il labirinto della parola. Enigmi, oracoli e sogni nella cultura antica* (2016)."
       #venue : "to be determined"
-      time : "12.00 - 12.30"
+      time : "11.30 - 12.00"
       lang: "in italian"
 
     - speaker : "Elsa Bouchard (University of Montreal)"
@@ -305,8 +305,15 @@ tab:
       abstract : "Theocritus’ 7<sup>th</sup> Idyll is famous for its central section containing two short songs performed by bucolic singers, both of which refer to bits of intriguing stories and situations that seem rather loosely connected to one another. In a largely ignored paper published in 1959, François Lasserre proposed that these enclosed songs are in fact patchworks of references to epigrams composed by various persons, and furthermore, that these epigrams were part of an anthology (presumably called the Σωρός) recently published by a group of poets associated with the Alexandrian circle of avant-garde poetry. The purpose of this paper is twofold. First, I look afresh at the evidence adduced by Lasserre concerning the epigrammatic sources of Idyll 7 and propose some amendments to his theory. Second, I investigate the intermedial nature of Theocritus’ use of an epigrammatico-anthological format *within* a work like Idyll 7, which otherwise presents itself as an unambiguous piece of bucolic poetry."
       biography : "Elsa Bouchard has been a professor of Greek language and literature at the University of Montreal (Department of Philosophy / Centre for Classical Studies) since 2012. Her research interests range from ancient philosophy to Greek literature and religion, including poetics and rhetoric."
       #venue : "to be determined"
-      time : "12.30 - 13.00"
+      time : "12.00 - 12.30"
       lang : "in english"
+
+    - speaker : "Alessia Borriello (Università degli Studi di Roma 'Tor Vergata', PhD Student)" 
+      subject : "Collation of the witnesses of the Appendix Barberino-Vaticana through ChrysoCollate" 
+      abstract: "The present contribution displays an unpublished collation of the witnesses of one of the so-called *Syllogae minores* of the *Anthologia Graeca*, the *Appendix Barberino-Vaticana*. The collation was carried out with the help of the ChrysoCollate freeware, developed by Sebastien Moureau. The collation table made it possible to optimize both data collection and analysis times, through the predictive completion of the witnesses’ variant readings, the synoptic juxtaposition of variant readings and comments, and the export of the results in ‘.odt’ format. <br> The anthological conformation of the *Appendix* lent itself well to the use of the program\: each epigram constituted a work cell, divided by words or syntagms. The collation led to a revision of the *stemma codicum* of the *Sylloge* proposed so far by scholars, who based themselves on partially inaccurate collation data, repeated starting from 1890 Leo Sternbach’s reference edition. The nineteenth-century edition of the *Appendix* was also based on only two of the four witnesses known today, all examined in this analysis."
+      biografia : "Alessia Borriello graduated in 'Classical Philology, Literature and Tradition' at the Alma Mater Studiorum – University of Bologna, and is currently pursuing a PhD in 'Classical Antiquities and their Fortune\: Archeology, Philology, History' at the University of Studies of Rome 'Tor Vergata', under supervision of professors Emanuele Dettori (Uniroma2) and Lucia Floridi (Unibo). Her project focuses on the anthological tradition of ancient Greek epigram, in particular on the Appendix Barberino-Vaticana, of which she is preparing a new critical edition with Italian translation and introduction of a philological and literary nature."
+      time : "12.30 - 13.00"
+      lang : "in italian"
 
     - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
       subject : "To come"
@@ -314,7 +321,7 @@ tab:
       biography : "As a research fellow, Robert Alessi holds an academic position at the French CNRS Joint Research Unit “Orient & Méditerranée” (UMR 8167, Paris, France). His research concentrates on the edition of Greek and Arabic medical texts, on the history of medicine, but also on computing applied to classical studies."
       #venue : "to be determined"
       time : "13.00 - 13.30"
-      lang : "to be determined"
+      lang : "in french" 
 
     - speaker :
       pause : "Lunch break"

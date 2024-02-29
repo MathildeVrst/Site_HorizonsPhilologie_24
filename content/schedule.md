@@ -258,14 +258,14 @@ tab:
       abstract :
       biography :
       venue :
-      time : "09h45 - 10h00"
+      time : "09h15 - 09h30"
 
     - speaker : "Giambattista D'Alessio (Université de Naples Federico II)"
       subject : "Édition de textes fragmentaires ‘entrelacés’ : le cas de P.Oxy. IV 659 (Pindare, Partheneia) et 662 (Anthologie d'épigrammes)"
       résumé :  "Dans cette communication, j’examine les complexes implications réciproques qui entrent en jeu dans l’édition des textes copiés au recto et au verso d’un papyrus d’Oxyrhynchus se trouvant désormais à la British Library, tout en tenant compte de la question des conditions du support matériel."
       biographie : "Après une formation à la Scuola Normale Superiore de Pise, Giovan Battista D'Alessio a été pendant trois ans le premier chercheur d'Arnaldo Momigliano à l'University College de Londres. Il a ensuite été professeur et professeur associé de littérature grecque à l'université de Messine (jusqu'en 2007) et professeur de langue et de littérature grecques au King's College de Londres (2007-2014). Il est actuellement professeur de philologie classique à l'université de Naples Federico II. Au cours de ces périodes, il a enseigné régulièrement et intensivement sur divers sujets classiques et a supervisé plusieurs étudiants des premier, deuxième et troisième cycles. Ses recherches ont principalement porté sur la poésie grecque, en particulier sur la poésie lyrique et hellénistique et sur les papyrus littéraires grecs. Liste des publications disponibles à [cette adresse](https://www.iris.unina.it/cris/rp/rp16792?sortBy=2&order=DESC&type=all)."      
       #venue : "à déterminer"
-      time : "10h00 - 10h30"
+      time : "09h30 - 10h00"
       lang : "en anglais"
 
     - speaker : "Valentina Garulli (Alma Mater Studiorum, Université de Bologne)"
@@ -273,7 +273,7 @@ tab:
       résumé :  "Dans l'ecdotique des épigrammes grecques anciennes, peut-être plus que pour tout autre type de texte, le *medium* a une importance non négligeable : s'il est vrai que le genre épigrammatique est le genre poétique *par excellence*, le support d'écriture doit plus que jamais être considéré comme une partie intégrante du message. Que se passe-t-il alors lorsqu'une même épigramme est conservée sur différents supports et dans différents contextes de transmission ? Quels sont les points de repère dont il faut tenir compte lors de l'édition de ces textes et quel poids accorder, dans la *constitutio textus*, à l'histoire qu'ils sont censés avoir traversée ? Nous nous proposons d'examiner quelques cas représentatifs de ces situations afin de formuler quelques réflexions épistémologiques et méthodologiques."
       biographie : "Valentina Garulli est professeure associée de Langue et Littérature grecques à l'Alma Mater Studiorum Université de Bologne, où elle enseigne la langue et la grammaire grecques aux étudiants de premier et de deuxième cycle, ainsi qu'aux doctorants. Ses recherches portent principalement sur la poésie grecque et latine sur pierre, l'épigramme grecque et latine, l'ancien et le nouveau Posidippus, et la poésie hellénistique. Ses autres sujets de recherche sont Callimaque, la biographie ancienne, l'histoire de la philologie classique et la didactique du grec ancien." 
       #venue : "à déterminer"
-      time : "10h30 - 11h00"
+      time : "10h00 - 10h30"
       lang : "en italien"
 
     - speaker : "Lucia Floridi (Alma Mater Studiorum, Université de Bologne)"
@@ -281,7 +281,7 @@ tab:
       résumé :  "Dans cette communication, j'entends d'abord réfléchir à ce que signifie proposer une édition critique de textes épigrammatiques, en me concentrant sur les modes de transmission des épigrammes depuis l'époque hellénistique jusqu'à nos jours et en esquissant une brève histoire éditoriale de l'*Anthologie grecque*. Je soulignerai comment la pratique éditoriale qui a cours depuis la première moitié du 19<sup>ème</sup> siècle est méthodologiquement discutable et doit être repensée. Je proposerai également des modèles alternatifs de publication. Je mettrai ensuite en évidence l'intérêt de préparer des éditions des différentes anthologies épigrammatiques qui ont survécu à ce jour, à commencer par les *Planudea*, dont l'organisation interne reflète un projet éditorial précis qui mérite d'être apprécié dans sa globalité. Je conclurai par quelques exemples des problèmes spécifiques auxquels l'éditeur d'une Sylloge Minore peut être confronté, en m'appuyant principalement sur mon édition *en cours* de la *Sylloge Parisina*. Le but est ici d'indiquer quelques directions de recherche possibles pour de futures études épigrammatiques."
       biographie : "Lucia Floridi est professeure de philologie classique et de l’Antiquité tardive au département de Philologie classique et des Études italiennes à l’Alma Mater Studiorum Université de Bologne. Ses principaux intérêts de recherche portent sur les épigrammes grecques et latines, avec une attention particulière aux genres érotique et scoptique, à la poésie hellénistique, à l’art de la prose à l’époque impériale, et enfin aux relations entre la littérature et les arts visuels. Elle a réalisé plusieurs éditions critiques d’auteurs d’épigrammes, dont Straton de Sardes (Edizioni Dell’Orso, 2007), Lucillius (De Gruyter, 2014) et Hédyle (De Gruyter, 2020), ainsi que de nombreux travaux portant sur des auteurs comme Palladas, Ausone, Longus et Lucien. Ses publications récentes comprennent le volume *Intervisuality. New Approaches to Greek Literature* (avec Andrea Capra; De Gruyter, 2023) et l'édition critique commentée du traité *Sur les sept merveilles* attribué à Philon de Byzance (avec Federico Condello; De Gruyter, 2023)." 
       #venue : "à déterminer"
-      time : "11h00 - 11h30"
+      time : "10h30 - 11h00"
       lang : "en italien"
 
     - speaker :
@@ -290,14 +290,14 @@ tab:
       abstract :
       biography :
       venue :
-      time : "11h30 - 12h00"      
+      time : "11h00 - 11h30"      
 
     - speaker : "Simone Beta (Université de Sienne)"
       subject : "Éditer les devinettes grecques : problèmes et solutions" 
       résumé : "L’édition des devinettes grecques, en particulier celles composées à l'époque byzantine, est loin d'être simple. En effet, le même texte est souvent présenté sous une forme très différente selon le manuscrit dans lequel il apparaît : nous ne sommes pas confrontés aux variantes textuelles typiques que l'on trouve dans d'autres compositions similaires (les épigrammes, par exemple), souvent limitées à un seul mot, mais à des différences beaucoup plus significatives, qui peuvent même concerner un ou plusieurs vers. Après avoir présenté quelques exemples de ces variantes, la communication proposera quelques possibilités d'édition, qui pourraient grandement bénéficier des nouvelles technologies."
       biographie : "Simone Beta est professeur de langue et littérature grecques à l’Université de Sienne. Il est l’auteur de nombreux ouvrages et articles portant, entre autres, sur le théâtre antique, la rhétorique, la poésie épigrammatique (essentiellement les énigmes et oracles) et la réception de la culture classique à l’époque moderne. En ce qui concerne la comédie, il a surtout travaillé sur Aristophane et ses adaptations (sur l'histoire du personnage de Lysistrata, voir *La donna che sconfigge la guerra. Lisistrata racconta la sua storia*, 2022). Parmi ses dernières publications, citons *Io, un manoscritto : l’Antologia Palatina si racconta* (2017) – qui a été traduit en français aux éditions Les Belles Lettres (2019) – et *Il labirinto della parola. Enigmi, oracoli e sogni nella cultura antica* (2016)." 
       #venue : "à déterminer"
-      time : "12h00 - 12h30"
+      time : "11h30 - 12h00"
       lang: "en italien"
     
     - speaker : "Elsa Bouchard (Université de Montréal)" 
@@ -305,8 +305,15 @@ tab:
       résumé : "La 7<sup>e</sup> Idylle de Théocrite est connue pour sa section centrale contenant deux courtes chansons interprétées par des chanteurs bucoliques, qui font référence à des fragments d'histoires et à des situations suggestives qui semblent faiblement reliées entre elles. Dans un article largement ignoré et publié en 1959, François Lasserre a avancé l'hypothèse que ces chansons sont un enchevêtrement de références à des épigrammes composées par diverses personnes, et que les épigrammes elles-mêmes faisaient partie d'une anthologie (vraisemblablement appelée Σωρός) publiée par un groupe de poètes associés au cercle de poésie d'avant-garde alexandrin. L'objectif de cette intervention est double. Premièrement, je réexamine les preuves apportées par Lasserre concernant les sources épigrammatiques de l'Idylle 7 et propose quelques modifications à sa théorie. Deuxièmement, j'étudie la nature intermédiale de l'utilisation par Théocrite d'un format épigrammatique-anthologique *à l'intérieur* d'une œuvre comme l'Idylle 7, qui se présente par ailleurs comme un morceau de poésie bucolique sans équivoque."
       biographie : "Elsa Bouchard est depuis 2012 professeure de langue et littérature grecques à l’Université de Montréal (Département de philosophie / Centre d’études classiques). Son champ de recherche s’étend de la philosophie ancienne à la littérature et religion grecque, en passant par la poétique et la rhétorique."
       #venue : "à déterminer"
-      time : "12h30 - 13h00"
+      time : "12h00 - 12h30"
       lang : "en anglais"
+
+    - speaker : "Alessia Borriello (Università degli Studi di Roma 'Tor Vergata', doctorante)" 
+      subject : "Collationner les témoins de l'appendice Barberino-Vaticane avec ChrysoCollate" 
+      résumé : "Cette contribution présente une collation inédite des témoins de l'une des *Sylloges mineures* de l'*Anthologie grecque*, l'*Appendix Barberino-Vaticana*. La collation a été réalisée à l'aide du *freeware ChrysoCollate*, développé par Sébastien Moureau. La table de collation a permis d'optimiser les temps de collecte et d'analyse des données, grâce à la complétion prédictive des leçons des témoins, à la juxtaposition synoptique des leçons et des commentaires, et à l'exportation des résultats au format ‘.odt’. <br>La conformation anthologique de l'annexe se prêtait bien à l'utilisation du programme \: chaque épigramme constituait une cellule de travail, divisée par mots ou syntagmes. La collation a conduit à une révision du *stemma codicum* de la *Sylloge* proposé jusqu'alors par les chercheurs, qui s'appuyaient sur des données de collation partiellement inexactes, reprises de l'édition de référence réalisée par Leo Sternbach en 1890. En outre, cette édition du XIX^e^ siècle n'était basée que sur deux des quatre témoins connus aujourd'hui, tous examinés dans la présente analyse."
+      biographie :  "Alessia Borriello a suivi une formation en philologie, littérature et tradition classique à l'Alma Mater Studiorum - Université de Bologne, et prépare actuellement un doctorat en 'Antiquités classiques et leur réception \: archéologie, philologie, histoire' à l'Université de Rome 'Tor Vergata', sous la direction des professeurs Emanuele Dettori (Uniroma2) et Lucia Floridi (Unibo). Son projet porte sur la tradition anthologique des épigrammes grecques, en particulier l'appendice Barberino-Vaticana, dont elle prépare une nouvelle édition critique avec une traduction et une introduction de nature philologique et littéraire."
+      time : "12h30 - 13h00"
+      lang : "en italien"
 
     - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
       subject : "à venir"
@@ -314,7 +321,7 @@ tab:
       biographie : "Robert Alessi est membre statutaire de l'Unité Mixte de Recherche «Orient & Méditerranée» (CNRS UMR 8167, Paris). Son travail porte sur l'édition des textes médicaux grecs et arabes, l'histoire de la médecine, mais aussi sur l'informatique appliquée aux études classiques." 
       #venue : "à déterminer"
       time : "13h00 - 13h30"
-      lang : "à déterminer"
+      lang : "en français"
 
     - speaker :
       pause : "Pause Déjeuner"
