@@ -316,7 +316,7 @@ tab:
       lang : "en italien"
 
     - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
-      subject : "à venir"
+      subject : "LaTeX ou l'écriture comme programmation du texte"
       résumé :  "à venir"
       biographie : "Robert Alessi est membre statutaire de l'Unité Mixte de Recherche «Orient & Méditerranée» (CNRS UMR 8167, Paris). Son travail porte sur l'édition des textes médicaux grecs et arabes, l'histoire de la médecine, mais aussi sur l'informatique appliquée aux études classiques." 
       #venue : "à déterminer"

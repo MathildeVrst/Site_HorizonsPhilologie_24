@@ -316,7 +316,7 @@ tab:
       lang : "in italiano"
 
     - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
-      subject : "prossimamente"
+      subject : "LaTeX o la scrittura come programmazione del testo"
       abstract: "prossimamente"
       biografia : "Robert Alessi è ricercatore presso l'Unità di ricerca congiunta del CNRS “Orient & Méditerranée” (UMR 8167, Parigi, Francia). La sua ricerca si concentra sull'edizione dei testi medici greci e arabi, sulla storia della medicina, ma anche sull'informatica applicata agli studi classici."
       time : "13.00 - 13.30"

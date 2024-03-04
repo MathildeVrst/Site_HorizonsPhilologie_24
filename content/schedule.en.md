@@ -316,7 +316,7 @@ tab:
       lang : "in italian"
 
     - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
-      subject : "To come"
+      subject : "LaTeX or writing as text programming"
       abstract: "To come"
       biography : "As a research fellow, Robert Alessi holds an academic position at the French CNRS Joint Research Unit “Orient & Méditerranée” (UMR 8167, Paris, France). His research concentrates on the edition of Greek and Arabic medical texts, on the history of medicine, but also on computing applied to classical studies."
       #venue : "to be determined"
