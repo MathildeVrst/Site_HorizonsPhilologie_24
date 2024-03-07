@@ -10,7 +10,7 @@ slug: schedule
 ###################### Tab ####################
 tab:
   enable : true
-  title : "Program [to be downloaded here (coming soon)]()"
+  title : "Program [to be downloaded here](https://api.nakala.fr/data/10.34847/nkl.fe4ed90w/b5bb28daa42e4d17938f96389cabe18975a29b17)"
   content : | 
     The study days take place in Via Porta di Massa 1, in the **Aula ex-cataloghi lignei** room.  
     Conferences can be followed online via [**the Jitsi platform**](https://meet.jit.si/horizons-phil-num-crcen) -- from home, or from the CRIHN offices (pav. Lionel-Groulx, room 8132).  
@@ -120,7 +120,7 @@ tab:
 
     - speaker : "Alix Chagué (team ALMAnaCH, INRIA)"
       subject : "Workshop - eScriptorium"
-      abstract : ""
+      abstract : "eScriptorium is an open source web application that makes it easy to use automatic transcription (HTR/OCR) on documents of all kinds. This workshop presents the application's main features and the essential steps for running a transcription campaign using eScriptorium."
       biography : ""
       #venue : "to be determined"
       time : "15.30 – 17.30"
