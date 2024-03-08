@@ -54,7 +54,7 @@ tab:
       time : "10.00 - 10.30"
       lang : "in english"
 
-    - speaker : "Gustavo Fernandez (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 ‘Material Text Cultures’)"
+    - speaker : "Gustavo Fernandez (Ruprecht-Karls-Universität Heidelberg. University Library)"
       subject : "Text-Image Alignment as a Feature of Digital Editions"
       abstract: "Layout analysis is the computational process by which different regions of a scanned image are identified and categorized. It is an important step in any workflow for handwritten text recognition. Depending on the document, the relevant zones can differ in nature, such as columns and lines. In this presentation, I will show how layout analysis can be used to create text-image alignments in scholarly digital editions of handwritten sources. The alignment links the typeset digital text, which — for the most part — maintains the layout conventions of the mechanical printing era, with the different and also feature-rich surface of handwritten sources. As a concrete example, I will present current developments stemming from the University of Heidelberg, particularly in the scholarly journal *Pylon: Editions and Studies of Ancient Texts*. I will argue that text-image alignment is a useful tool not only in editions of ancient and difficult to read documents, but also of any document with a complex layout."
       biography : "Gustavo Fernández Riva is a Research Associate in Digital Humanities at the University Library of Heidelberg and works mainly on technical and conceptual development in the field of Digital Editing. He was awarded a Ph.D. in comparative literature at the University of Buenos Aires in 2018. His main fields of research are written and literary practices in non-typographical societies. His current research projects include using network analysis to study shared manuscript transmission of medieval texts and the creation of an open, collaborative dataset of philological *stemmata*."
@@ -78,7 +78,7 @@ tab:
       venue :
       time : "11.30 - 12.00"      
 
-    - speaker : "Alix Chagué (PSL University & University of Montreal , PhD Student)"
+    - speaker : "Alix Chagué (ALMAnaCH, Inria & Université de Montréal & EPHE-Université PSL, PhD Student)"
       subject : "FAIRer transcriptions: HTR-United and the possibility of a common for training data"
       abstract : "Automatic Text Recognition technologies (including HTR and OCR) offer an opportunity to work faster with handwritten documents. However, creating and accessing transcription models remain a challenge. This is the reason why it is important to be able to rely on data created by others. HTR-United presents a solution by offering a catalog which gathers descriptions and redirects towards existing public datasets. After introducing the stakes linked to the publication of training for HTR, we will present the HTR-United ecosystem and its schema for the description of datasets."
       biography : "Alix Chagué is a PhD student in Digital Humanities, member of the ALMAnaCH team at Inria-Paris and part of the CRIHN at the University of Montreal, enrolled both at the University of Montréal and the École Pratique des Hautes Études (Paris). Under the supervision of Laurent Romary, Emmanuel Chateau-Dutier and Michael Sinatra, she works on the appropriation of automatic transcription tools (HTR) by the DH community and by cultural institutions. Her research focuses on the impact of training dataset composition on HTR models. Previous to her PhD, as a Research and Development engineer for Inria, she colaborated with numerous projets involving HTR, including LECTAUREP (French national archives), TIME US (ANR) and DAHN."
@@ -118,7 +118,7 @@ tab:
       venue :
       time :   
 
-    - speaker : "Alix Chagué (team ALMAnaCH, INRIA)"
+    - speaker : "Alix Chagué (ALMAnaCH, Inria & Université de Montréal & EPHE-Université PSL"
       subject : "Workshop - eScriptorium"
       abstract : "eScriptorium is an open source web application that makes it easy to use automatic transcription (HTR/OCR) on documents of all kinds. This workshop presents the application's main features and the essential steps for running a transcription campaign using eScriptorium."
       biography : ""

@@ -54,7 +54,7 @@ tab:
       time : "10h00 - 10h30"
       lang : "en anglais"
 
-    - speaker : "Gustavo Fernandez (Ruprecht-Karls-Universität Heidelberg. University Library ; Collaborative Research Center 933 ‘Material Text Cultures’)"
+    - speaker : "Gustavo Fernandez (Ruprecht-Karls-Universität Heidelberg. University Library)"
       subject : "L'alignement texte-image comme caractéristique des éditions numériques"
       résumé :  "L'analyse de la mise en page (*layout analysis*) est le processus informatique par lequel les différentes régions d'une image numérisée sont identifiées et classées. Il s'agit d'une étape importante dans tout processus de reconnaissance de texte manuscrit. En fonction du document, les régions d'intérêt peuvent être de nature différente (par exemple, colonnes et lignes). Dans cette présentation, je montrerai comment l'analyse de la mise en page peut être utilisée pour créer des alignements texte-image dans les éditions numériques de sources manuscrites. L'alignement relie le texte numérique dactylographié, qui conserve pour l'essentiel les conventions de mise en page de l'ère de l'impression mécanique, à la surface diversifiée et riche en caractéristiques des sources manuscrites. À titre d'exemple, je présenterai les développements actuels à l'université de Heidelberg, en particulier la revue scientifique *Pylon : Editions and Studies of Ancient Texts*. Je soutiendrai que l'alignement texte-image est un outil utile non seulement dans les éditions de documents anciens et difficiles à lire, mais aussi dans le cas de tout document présentant une mise en page complexe."
       biographie : "Gustavo Fernández Riva est chercheur associé en humanités numériques à la bibliothèque universitaire de Heidelberg et s'intéresse principalement au développement technique et conceptuel dans le domaine de l'édition numérique. Il a obtenu un doctorat en littérature comparée à l'Université de Buenos Aires en 2018. Ses principaux domaines de recherche sont les pratiques écrites et littéraires dans les sociétés non typographiques. Ses projets de recherche actuels comprennent l'utilisation de l'analyse de réseau pour étudier la transmission manuscrite partagée de textes médiévaux et la création d'un ensemble de données ouvert et collaboratif de *stemmata* philologiques." 
@@ -78,7 +78,7 @@ tab:
       venue :
       time : "11h30 - 12h00"      
 
-    - speaker : "Alix Chagué (Université PSL & Université de Montréal, doctorante)"
+    - speaker : "Alix Chagué (ALMAnaCH, Inria & Université de Montréal & EPHE-Université PSL, doctorante)"
       subject : "Des transcriptions plus FAIR: HTR-United et la possibilité d'un commun pour les données d'entraînement." 
       résumé : "La reconnaissance automatique de texte (incluant l'HTR et l'OCR) offre l'opportunité de travailler plus vite avec les documents manuscrits. Cependant, créer et accéder à des modèles de transcription demeure un défi. C'est la raison pour laquelle il est important de pouvoir s'appuyer sur les données créées par d'autres. HTR-United offre une solution en proposant un catalogue décrivant et redirigeant vers des jeux de données publics de qualité. Après une présentation des enjeux liés à la publication des données d'entraînement pour l'HTR, nous présenterons l'écosystème HTR-United et le schéma de description qu'il propose."
       biographie : "Alix Chagué est doctorante en Humanités numériques, membre de l'équipe ALMAnaCH à Inria Paris, du CRIHN à l'Université de Montréal et inscrite à l'Université de Montréal et à l'Ecole Pratique des Hautes Etudes à Paris. Sous la supervision de Laurent Romary, Emmanuel Chateau-Dutier et Michael Sinatra, elle travaille sur l'appropriation des outils de transcription automatique (HTR) par la communauté des humanités numériques et les institutions patrimoniales. Ses recherches se concentrent notamment sur l'impact de la composition des corpus d'entraînement sur les modèles de transcription. Avant son doctorat, en tant qu'ingénieur Recherche & Développement, elle a collaboré avec plusieurs projets impliquant l'HTR, notamment LECTAUREP (Archives nationales), TIME US (ANR) et DAHN." 
@@ -118,7 +118,7 @@ tab:
       venue :
       time : 
 
-    - speaker : "Alix Chagué (équipe ALMAnaCH, INRIA)"
+    - speaker : "Alix Chagué (ALMAnaCH, Inria & Université de Montréal & EPHE-Université PSL)"
       subject : "Workshop - eScriptorium"
       résumé : "eScriptorium est une application web open source permettant d'utiliser aisément la transcription automatique (HTR/OCR) sur des documents de diverses natures. Ce workshop propose une présentation des principales fonctionnalités de l'application et des étapes essentielles pour la conduite d'une campagne de transcription à l'aide d'eScriptorium."
       biographie : ""
