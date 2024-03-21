@@ -10,7 +10,11 @@ slug: schedule
 ###################### Tab ####################
 tab:
   enable : true
-  title : "Program [to be downloaded here](https://api.nakala.fr/embed/10.34847/nkl.fe4ed90w/cc76c087cd530749eaebbce74649f036b58d0c5d)"
+  title : "Program"
+  button: 
+    enable: true 
+    label: "Program to download" 
+    link: "https://api.nakala.fr/embed/10.34847/nkl.fe4ed90w/cc76c087cd530749eaebbce74649f036b58d0c5d" 
   content : | 
     The study days take place in Via Porta di Massa 1, in the **Aula ex-cataloghi lignei** room.  
     Conferences can be followed online via [**the Jitsi platform**](https://meet.jit.si/horizons-phil-num-crcen) -- from home, or from the CRIHN offices (pav. Lionel-Groulx, room 8132).  

@@ -10,7 +10,11 @@ slug: programma
 ###################### Tab ####################
 tab:
   enable : true
-  title : "Programma [da scaricare qui](https://api.nakala.fr/embed/10.34847/nkl.fe4ed90w/cc76c087cd530749eaebbce74649f036b58d0c5d)"
+  title : "Programma"
+  button: 
+    enable: true 
+    label: "Programma da scaricare" 
+    link: "https://api.nakala.fr/embed/10.34847/nkl.fe4ed90w/cc76c087cd530749eaebbce74649f036b58d0c5d" 
   content : |
     Le giornate di studio si svolgono in Via Porta di Massa 1, nell'**Aula ex-cataloghi lignei**.  
     Le relzione possono essere seguite online tramite [**la piattaforma Jitsi**](https://meet.jit.si/horizons-phil-num-crcen) -- da casa o dalla sede del CRIHN (pav. Lionel-Groulx, stanza 8132).  
