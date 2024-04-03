@@ -53,7 +53,7 @@
                 <!-- Schedule Details -->
                 {{ range .tablist_items }}
                 <li class="schedule-details">
-                  <div class="schedule-row {{if .pause}}pause-row{{end}}">
+                  <div class="schedule-row {{if .pause}}pause-row{{else if .presi}}presi-row{{end}}">
                     <!-- time -->
                     <div class="schedule-time">
                       {{if .time}}
@@ -81,6 +81,13 @@
                         <span class="online">{{ .online | markdownify }}</span>
                       </div>
                       {{ end }}
+                      <!-- président -->
+                      {{if .presi}}
+                      <div class="schedule-row {{if .presi}}presi-row{{end}}">
+                      <i class="fas fa-user-tie"></i>
+                      <span class="presi">{{ .presi | markdownify }}</span>
+                      </div>
+                      {{end}}
                     </div>
 
                     <!-- Speaker -->
@@ -88,6 +95,10 @@
 
                       {{if .pause}}
                       {{ .pause | markdownify }}
+                      {{else if .presi}}
+                      {{ if .speaker}}
+                      <span class="presi-name">{{.speaker| markdownify}}</span>
+                      {{end}}
                       {{else}}
                       <!-- <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}"> -->
                       <h5>{{ .subject | markdownify }}</h5>

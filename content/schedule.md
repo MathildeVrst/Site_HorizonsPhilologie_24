@@ -52,6 +52,15 @@ tab:
       #venue : "à déterminer"
       time : "09h45 - 10h00"
 
+    - speaker : "Gennaro Ferrante"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "Président"
+
     - speaker : "Marcello Vitali-Rosati, Mathilde Verstraete (CRCEN -- UdeM)"
       subject : "Une décennie du projet *Anthologie grecque* -- bilan, succès, défis"
       résumé :  "Depuis 2014, la Chaire de recherche du Canada sur les écritures numériques (CRCEN) porte le projet d'[édition numérique et collaborative de l'Anthologie grecque](https://anthologiagraeca.org/). En une décennie, le projet a évolué sur trois plateformes différentes, a rassemblé de nombreux·ses chercheur·e·s issu·e·s de multiples disciplines et à différents stades de leur carrière et a engendré de nouvelles pistes de recherche, exploitant les multiples facettes de ce corpus millénaire. Nous proposons de faire le bilan sur ce projet, tant sur les réussites, les découvertes, les développements que sur les défis qu'il nous reste à relever."
@@ -83,6 +92,15 @@ tab:
       biography :
       venue :
       time : "11h30 - 12h00"      
+
+    - speaker : "Andrea Zappulli & Sabrina Iorio"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "Président·e·s"
 
     - speaker : "Alix Chagué (ALMAnaCH, Inria & Université de Montréal & EPHE-Université PSL, doctorante)"
       subject : "Des transcriptions plus FAIR: HTR-United et la possibilité d'un commun pour les données d'entraînement." 
@@ -154,6 +172,15 @@ tab:
       venue :
       time : "09h45 - 10h00"
 
+    - speaker : "Arturo De Vivo"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "Président"
+
     - speaker : "Paolo Mastandrea (Université Ca' Foscari de Venise)"
       subject : "Philologie latine et organisation collaborative. La nouvelle plateforme MQDQ Galaxy"
       résumé :  "L'objectif de cette communication est d'illustrer l'initiative de la plateforme MGDQ Galaxy, née en 2018 dans l'optique d'assurer un avenir aux corpus *Musisque Deoque*, *Poeti d'Italia*, et à la suite d'instruments métriques *Pedecerto*, et ce en préservant la plateforme existante, mais aussi en l'augmentant et en la développant. Il y a deux domaines d'intervention. <br> (1) La définition d'un modèle organisationnel, centré sur XML/TEI comme format d'archivage et d'échange, et la mise en place d'une infrastructure technologique capable de le rendre effectivement et facilement opérationnel ; <br> (2) La création d'une plateforme web qui permettrait d'élargir l'audience des contributeurs en fournissant tous les outils nécessaires à la préparation autonome de nouveaux textes et appareils critiques : documentation, utilitaires de conversion de format, interface visuelle pour une saisie aisée des données, archivage des manuscrits."
@@ -185,6 +212,15 @@ tab:
       biography :
       venue :
       time : "11h30 - 12h00"      
+
+    - speaker : "Lorenzo Miletti"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "Président"
 
     - speaker : "Marta Legnini (Université de Parme, doctorante)"
       subject : "Collaborer et partager. Défis et opportunités de l'édition numérique de quelques épigrammes de l'*Anthologie*"
@@ -266,6 +302,15 @@ tab:
       venue :
       time : "09h15 - 09h30"
 
+    - speaker : "Giulio Massimilla"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "Président"
+
     - speaker : "Giambattista D'Alessio (Université de Naples Federico II)"
       subject : "Édition de textes fragmentaires ‘entrelacés’ : le cas de P.Oxy. IV 659 (Pindare, Partheneia) et 662 (Anthologie d'épigrammes)"
       résumé :  "Dans cette communication, j’examine les complexes implications réciproques qui entrent en jeu dans l’édition des textes copiés au recto et au verso d’un papyrus d’Oxyrhynchus se trouvant désormais à la British Library, tout en tenant compte de la question des conditions du support matériel."
@@ -297,6 +342,15 @@ tab:
       biography :
       venue :
       time : "11h00 - 11h30"      
+
+    - speaker : "Giancarlo Abbamonte"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "Président"
 
     - speaker : "Simone Beta (Université de Sienne)"
       subject : "Éditer les devinettes grecques : problèmes et solutions" 

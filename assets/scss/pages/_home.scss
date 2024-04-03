@@ -181,7 +181,7 @@
 		}
 		.description-one{
 			p{
-				color: $black;
+				color: $primary-color;
 				font-size: 1.0625rem;
 			}
 			margin-bottom: 20px;
@@ -303,7 +303,7 @@
 							&:hover{
 								background: $light;
 								i{
-									color: $black;
+									color: $primary-color;
 								}
 							}
 						}
@@ -325,7 +325,7 @@
 			h5{
 				a{
 					font-size: 22px;
-					color: $black;
+					color: $primary-color;
 					font-weight: 400;
 					margin-bottom: 0;
 					&:hover{
@@ -443,7 +443,7 @@
 		width: 100%;
 		transition: .2s ease-in;
 		div{
-			color: $black;
+			color: $primary-color;
 			font-family: $secondary-font;
 
 			& + div {
@@ -468,8 +468,12 @@
 			span.laptop{
 				margin-left: 5px;
 			}
+			span.presi{
+				margin-left: 10px;
+			}
 			span.name{
 			}
+			
 		}
 		//&:hover{
 		//	box-shadow: 0px 0px 30px 0px rgba(11, 29, 66, 0.15);
@@ -489,6 +493,21 @@
 			text-align: center;
 			flex-grow: 1;
 			font-size: 1.125rem;
+		}
+
+	}
+
+	.presi-row {
+		background-color: #eee7e3;
+		margin-top: -0.5rem;
+		margin-bottom: -0.5rem;
+		.schedule-content {
+			padding: .5rem 0; /* espacement vertical additionel */
+			letter-spacing: .025em;
+			text-align: center;
+			flex-grow: 1;
+			font-size: 1.375rem;
+			font-weight: 600;
 		}
 
 	}
@@ -527,7 +546,7 @@
 						font-family: $secondary-font;
 						text-transform: uppercase;
 						font-size: 20px; //24px
-						color: $black;
+						color: $primary-color;
 						font-weight: 500;
 						display: block;
 						border-radius: 0;

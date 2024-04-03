@@ -50,6 +50,15 @@ tab:
       #venue : "to be determined"
       time : "09.45 - 10.00"
 
+    - speaker : "Gennaro Ferrante"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "President"
+
     - speaker : "Marcello Vitali-Rosati, Mathilde Verstraete (CRCEN -- UdeM)" 
       subject : "A decade of the *Greek Anthology* project -- achievements, successes, challenges"
       abstract: "Since 2014, the Canada Research Chair in Digital Textualities has been running the [collaborative and digital edition of the Greek Anthology](https://anthologiagraeca.org/) project. In the space of a decade, the project has evolved on three different platforms, brought together numerous researchers from multiple disciplines and at different stages of their careers, and spawned new avenues of research, exploiting the many facets of this thousand-year-old corpus. We propose to take stock of this project, in terms of its successes, discoveries and developments, as well as the challenges still ahead."
@@ -81,6 +90,15 @@ tab:
       biography :
       venue :
       time : "11.30 - 12.00"      
+
+    - speaker : "Andrea Zappulli & Sabrina Iorio"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "Presidents"
 
     - speaker : "Alix Chagué (ALMAnaCH, Inria & Université de Montréal & EPHE-Université PSL, PhD Student)"
       subject : "FAIRer transcriptions: HTR-United and the possibility of a common for training data"
@@ -152,6 +170,15 @@ tab:
       venue :
       time : "09.45 - 10.00"
 
+    - speaker : "Arturo De Vivo"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "President"
+
     - speaker : "Paolo Mastandrea (Ca' Foscari University of Venice)"
       subject : "Latin philology and collaborative organization. The new platform of MQDQ Galaxy"
       abstract :  "The object of this talk is to illustrate the initiative -- born in 2018 -- of the new MQDQ Galaxy platform, with the aim of securing a future for the *Musisque Deoque* and *Poeti d'Italia* corpora and the *Pedecerto* suite of metrical tools, by preserving the existing, but also augmenting and developing it. There are two main areas of intervention. <br> (1) Establishment of an organizational model centered on XML/TEI as the archiving and interchange format and the development of a technological infrastructure designed to make it effectively and readily operational; <br> (2) Creation of a web platform that would expand the audience of contributors by providing all the tools needed to independently prepare new critical texts and apparatuses: documentation, format conversion utility, visual interface for easy entry of apparatus data, manuscript archive."
@@ -183,6 +210,15 @@ tab:
       biography :
       venue :
       time : "11.30 - 12.00"      
+
+    - speaker : "Lorenzo Miletti"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "President"
 
     - speaker : "Marta Legnini (University of Parma, PhD Student)"
       subject : "Collaborating and Sharing. Challenges and Opportunities in the Digital Edition of Some Epigrams from the *Anthology*"
@@ -263,6 +299,14 @@ tab:
       venue :
       time : "09.15 - 10.30"
 
+    - speaker : "Giulio Massimilla"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "President"
 
     - speaker : "Giambattista D'Alessio (University of Naples Federico II)"
       subject : "Ecdotical problems of 'intricate' texts : the case of P. Oxy. IV 659 (Pindar, Parthenii) and 662 (Anthology of Epigrams)"
@@ -295,6 +339,15 @@ tab:
       biography :
       venue :
       time : "11.00 - 11.30"      
+
+    - speaker : "Giancarlo Abbamonte"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "President"
 
     - speaker : "Simone Beta (University of Siena)"
       subject : "On How to edit Greek Riddles : Questions and Answers"

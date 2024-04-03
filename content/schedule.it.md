@@ -50,6 +50,15 @@ tab:
       #venue : "da determinare"
       time : "09.45 - 10.00"
 
+    - speaker : "Gennaro Ferrante"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "Presidente"
+
     - speaker : "Marcello Vitali-Rosati, Mathilde Verstraete (CRCEN -- UdeM)"   
       subject : "Un decennio del progetto *Antologia greca* -- risultati, successi e sfide"
       abstract: "Dal 2014, la Canada Research Chair on Digital Textualities coordina il progetto di [edizione digitale collaborativa dell'Antologia greca](https://anthologiagraeca.org/). Nell'arco di un decennio, il progetto si è sviluppato su tre diverse piattaforme, ha riunito numerosi ricercatori provenienti da un'ampia gamma di discipline e in diverse fasi della loro carriera e ha generato nuovi percorsi di ricerca, sfruttando le molteplici sfaccettature di questo corpus secolare. Ci proponiamo di fare un bilancio di questo progetto, in termini di successi, scoperte e sviluppi, nonché delle sfide che ancora ci attendono."
@@ -81,6 +90,15 @@ tab:
       biografia :
       venue :
       time : "11.30 - 12.00"      
+
+    - speaker : "Andrea Zappulli & Sabrina Iorio"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "Presidenti"
 
     - speaker : "Alix Chagué (ALMAnaCH, Inria & Université de Montréal & EPHE-Université PSL, dottoranda)"
       subject : "Trascrizioni più FAIR: HTR-United e la possibilità di un dataset comune per i dati di addestramento."
@@ -152,6 +170,15 @@ tab:
       venue :
       time : "09.45 - 10.00"
 
+    - speaker : "Arturo De Vivo"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "Presidente"
+
     - speaker : "Paolo Mastandrea (Università Ca' Foscari Venezia)"
       subject : "Filologia latina e organizzazione collaborativa. La nuova piattaforma di MQDQ Galaxy"
       abstract :  "L'obiettivo di questo intervento è  di illustrare l'iniziativa -- nata nel 2018 -- della nuovo piattaforma MQDQ Galaxy, con lo scopo di assicurare un futuro ai corpora *Musisque Deoque* e *Poeti d'Italia* e alla suite di strumenti metrici *Pedecerto*, conservando l'esistente, ma anche incrementandolo e sviluppandolo. Le principali aree di intervento sono due. <br> (1) Definizione di un modello organizzativo centrato su XML/TEI come formato di archiviazione e intersacambio e la messa a punto di un'infrastruttura tecnologica in grado di renderlo efficacemente e agevolmente operativo; <br> (2) Creazione di una piattaforma web che permettesse di allargare la platea dei collaboratori, fornendo tutti gli strumenti necessari per preparare in autonomia nuovi testi critici e apparati : documentazione, utilità di conversione dei formati, interfaccia visuale per il facile inserimento dei dati di apparato, archivio dei manoscritti."
@@ -183,6 +210,15 @@ tab:
       biografia :
       venue :
       time : "11.30 - 12.00"      
+
+    - speaker : "Lorenzo Miletti"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "Presidente"
 
     - speaker : "Marta Legnini (Università degli Studi di Parma, dottoranda)"
       subject : "Collaborare e condividere. Sfide e opportunità dell’edizione digitale di alcuni epigrammi dell’*Anthologia*"
@@ -263,6 +299,15 @@ tab:
       venue :
       time : "09.15 - 09.30"
 
+    - speaker : "Giulio Massimilla"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "Presidente"
+
     - speaker : "Giambattista D'Alessio (Università degli Studi di Napoli Federico II)"
       subject : "Problemi ecdotici di testi ‘intricati’ : il caso di P. Oxy. IV 659 (Pindaro, Partenii) e 662 (Antologia di epigrammi)"
       abstract: "In questo contributo esamino le complesse implicazioni reciproche che entrano in gioco nell’edizione dei testi copiati sul recto e il verso di un papiro di Ossirinco conservato ora nella British Library, prendendo in considerazione anche la questione delle condizioni materiali del supporto."
@@ -294,6 +339,15 @@ tab:
       biografia :
       venue :
       time : "11.00 - 11.30"      
+
+    - speaker : "Giancarlo Abbamonte"
+      pause : 
+      subject : 
+      abstract :
+      biography :
+      venue :
+      time :
+      presi : "Presidente"
 
     - speaker : "Simone Beta (Università degli Studi di Siena)"
       subject : "L'edizione degli indovinelli greci: domande e risposte"
