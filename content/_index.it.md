@@ -45,7 +45,7 @@ registration:
   enable : true
   title : "Contattaci"
   content : |
-    Per contattare il nostro team, scrivere a mathilde [punto] verstraete [chiocciola] umontral [punto] ca
+    Per contattare il nostro team, scrivere a mathilde [punto] verstraete [chiocciola] umontreal [punto] ca
   # form_action : "https://formspree.io/f/mnqrnvny" # works with formspree.io
 
 ############### Sponsors ##################

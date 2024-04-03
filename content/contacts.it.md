@@ -11,7 +11,7 @@ registration:
   enable : true
   title : "Contattaci"
   content : |
-    Per contattare il nostro team, scrivere a mathilde [punto] verstraete [chiocciola] umontral [punto] ca
+    Per contattare il nostro team, scrivere a mathilde [punto] verstraete [chiocciola] umontreal [punto] ca
 
 about:
   enable : true

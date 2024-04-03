@@ -11,7 +11,7 @@ registration:
   enable : true
   title : "Contactez-nous"
   content : |
-    Pour contacter notre équipe, veuillez écrire à mathilde [point] verstraete [acomercial] umontral [point] ca
+    Pour contacter notre équipe, veuillez écrire à mathilde [point] verstraete [acomercial] umontreal [point] ca
 
 about:
   enable : true

@@ -11,7 +11,7 @@ registration:
   enable : true
   title : "Get in touch"
   content : |
-    To contact us, please write to mathilde [point] verstraete [acomercial] umontral [point] ca
+    To contact us, please write to mathilde [point] verstraete [acomercial] umontreal [point] ca
 
 about:
   enable : true
