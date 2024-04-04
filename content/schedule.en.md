@@ -57,7 +57,7 @@ tab:
       biography :
       venue :
       time :
-      presi : "President"
+      presi : "Chair"
 
     - speaker : "Marcello Vitali-Rosati, Mathilde Verstraete (CRCEN -- UdeM)" 
       subject : "A decade of the *Greek Anthology* project -- achievements, successes, challenges"
@@ -98,7 +98,7 @@ tab:
       biography :
       venue :
       time :
-      presi : "Presidents"
+      presi : "Chair"
 
     - speaker : "Alix Chagué (ALMAnaCH, Inria & Université de Montréal & EPHE-Université PSL, PhD Student)"
       subject : "FAIRer transcriptions: HTR-United and the possibility of a common for training data"
@@ -177,7 +177,7 @@ tab:
       biography :
       venue :
       time :
-      presi : "President"
+      presi : "Chair"
 
     - speaker : "Paolo Mastandrea (Ca' Foscari University of Venice)"
       subject : "Latin philology and collaborative organization. The new platform of MQDQ Galaxy"
@@ -218,7 +218,7 @@ tab:
       biography :
       venue :
       time :
-      presi : "President"
+      presi : "Chair"
 
     - speaker : "Marta Legnini (University of Parma, PhD Student)"
       subject : "Collaborating and Sharing. Challenges and Opportunities in the Digital Edition of Some Epigrams from the *Anthology*"
@@ -306,7 +306,7 @@ tab:
       biography :
       venue :
       time :
-      presi : "President"
+      presi : "Chair"
 
     - speaker : "Giambattista D'Alessio (University of Naples Federico II)"
       subject : "Ecdotical problems of 'intricate' texts : the case of P. Oxy. IV 659 (Pindar, Parthenii) and 662 (Anthology of Epigrams)"
@@ -347,7 +347,7 @@ tab:
       biography :
       venue :
       time :
-      presi : "President"
+      presi : "Chair"
 
     - speaker : "Simone Beta (University of Siena)"
       subject : "On How to edit Greek Riddles : Questions and Answers"
