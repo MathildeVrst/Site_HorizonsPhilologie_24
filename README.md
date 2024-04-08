@@ -16,4 +16,4 @@ Organisateurs :
 ## Rediffusion : 
 
 - locaux du CRIHN (pav. Lionel-Groulx, salle 8132) 
-- https://meet.jit.si/horizons-phil-num-crcen"
+- https://bbb.futuretic.fr/rooms/vuk-bl6-tl0-ut8/join

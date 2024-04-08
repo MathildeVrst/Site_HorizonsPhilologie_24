@@ -14,10 +14,10 @@ tab:
   button: 
     enable: true 
     label: "Program to download" 
-    link: "https://api.nakala.fr/data/10.34847/nkl.fe4ed90w/aad1100ab3140d05b3320c81a8fe447f7ae95a69" 
+    link: "https://api.nakala.fr/data/10.34847/nkl.fe4ed90w/fdfa6f5bf7c004544fc0c5b317bb04328dc4dbae" 
   content : | 
     The study days take place in Via Porta di Massa 1, in the **Aula ex-cataloghi lignei** room.  
-    Conferences can be followed online via [**the Jitsi platform**](https://meet.jit.si/horizons-phil-num-crcen) -- from home, or from the CRIHN offices (pav. Lionel-Groulx, room 8132).  
+    Conferences can be followed online through [**BigBlueButton**](https://bbb.futuretic.fr/rooms/vuk-bl6-tl0-ut8/join). <!-- from home, or from the CRIHN offices (pav. Lionel-Groulx, room 8132). -->  
     Collaborative notes are available **here (to come)** (multilingual notes and important links).
   tablist:
   # tab item
@@ -27,7 +27,7 @@ tab:
     # [SESSION 1] : "L’actualité scientifique de l’*Anthologie grecque*."
 
     - speaker :
-      pause : "[SESSION I] Paleografia, HTR and digital reconstruction"
+      pause : "[SESSION I] Paleography, HTR and digital reconstruction"
       subject :
       abstract :
       biography :

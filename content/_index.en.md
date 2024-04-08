@@ -17,7 +17,7 @@ banner:
   button:
     enable : true
     label : "Link to the videoconference"
-    link : "https://meet.jit.si/horizons-phil-num-crcen"
+    link : "https://bbb.futuretic.fr/rooms/vuk-bl6-tl0-ut8/join"
 
 
 ################# About ###################

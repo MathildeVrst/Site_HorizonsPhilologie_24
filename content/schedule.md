@@ -16,10 +16,10 @@ tab:
   button: 
     enable: true 
     label: "Programme à télécharger" 
-    link: "https://api.nakala.fr/data/10.34847/nkl.fe4ed90w/aad1100ab3140d05b3320c81a8fe447f7ae95a69" 
+    link: "https://api.nakala.fr/data/10.34847/nkl.fe4ed90w/fdfa6f5bf7c004544fc0c5b317bb04328dc4dbae" 
   content : |
     Les journées d'étude ont lieu Via Porta di Massa 1, dans la salle **Aula ex-cataloghi lignei**.  
-    Les conférences peuvent être suivies en ligne via [**la plateforme Jitsi**](https://meet.jit.si/horizons-phil-num-crcen) -- de chez soi, ou depuis les locaux du CRIHN (pav. Lionel-Groulx, salle 8132).  
+    Les conférences peuvent être suivies en ligne via [**BigBlueButton**](https://bbb.futuretic.fr/rooms/vuk-bl6-tl0-ut8/join). <!-- de chez soi, ou depuis les locaux du CRIHN (pav. Lionel-Groulx, salle 8132)-->  
     Un pad collaboratif est à votre disposition **ici (à venir)** (notes multilingues et liens importants).
   tablist:
   # tab item

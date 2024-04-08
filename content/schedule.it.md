@@ -14,10 +14,10 @@ tab:
   button: 
     enable: true 
     label: "Programma da scaricare" 
-    link: "https://api.nakala.fr/data/10.34847/nkl.fe4ed90w/aad1100ab3140d05b3320c81a8fe447f7ae95a69" 
+    link: "https://api.nakala.fr/data/10.34847/nkl.fe4ed90w/fdfa6f5bf7c004544fc0c5b317bb04328dc4dbae" 
   content : |
     Le giornate di studio si svolgono in Via Porta di Massa 1, nell'**Aula ex-cataloghi lignei**.  
-    Le relzione possono essere seguite online tramite [**la piattaforma Jitsi**](https://meet.jit.si/horizons-phil-num-crcen) -- da casa o dalla sede del CRIHN (pav. Lionel-Groulx, stanza 8132).  
+    Le relazione possono essere seguite online tramite [**BigBlueButton**](https://bbb.futuretic.fr/rooms/vuk-bl6-tl0-ut8/join). <!--  da casa o dalla sede del CRIHN (pav. Lionel-Groulx, stanza 8132).  -->  
     È disponibile **qui (a breve)** - un pad collaborativo (note multilingue e link importanti).
   tablist:
   # tab item
