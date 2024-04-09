@@ -45,6 +45,8 @@ registration:
   enable : true
   title : "Nous contacter"
   content : |
+    Faites-nous part de votre présence (il suffit de nous envoyer un mail) ! C'est recommandé pour les conférences, obligatoire pour les ateliers.  
+    
     Pour plus d'informations, nous contacter à mathilde [point] verstraete [arobase] umontreal [point] ca.
 #  form_action : "" 
 # works with formspree.io

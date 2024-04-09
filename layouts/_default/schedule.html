@@ -74,6 +74,12 @@
                       {{if .laptop}}
                       <i class="fa-solid fa-laptop"></i>
                       <span class="laptop">{{ .laptop | markdownify }}</span>
+                      <br>
+                      {{ end }}
+                      {{if .inscription}}
+                      <i class="fa-solid fa-envelope"></i>
+                      <span class="inscription">{{ .inscription | markdownify }}</span>
+                      <br>
                       {{ end }}
                       {{if .online}}
                       <div>

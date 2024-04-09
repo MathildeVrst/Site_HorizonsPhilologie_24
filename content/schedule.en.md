@@ -140,14 +140,15 @@ tab:
       venue :
       time :   
 
-    - speaker : "Alix Chagué (ALMAnaCH, Inria & Université de Montréal & EPHE-Université PSL"
-      subject : "Workshop - eScriptorium"
+    - speaker : "Alix Chagué (ALMAnaCH, Inria & Université de Montréal & EPHE-Université PSL)"
+      subject : "Workshop - [eScriptorium](https://escriptorium.inria.fr/)"
       abstract : "eScriptorium is an open source web application that makes it easy to use automatic transcription (HTR/OCR) on documents of all kinds. This workshop presents the application's main features and the essential steps for running a transcription campaign using eScriptorium."
       biography : ""
       #venue : "to be determined"
       time : "15.30 – 17.30"
       lang : "in english"
       laptop: "bring your laptop"
+      inscription: "[registration required](mailto:mathilde.verstraete@umontreal.ca)"
 
   # tab item
   - name : "Day 02"
@@ -268,6 +269,7 @@ tab:
       time : "15.30 - 17.30"
       lang : "in english" 
       laptop: "bring your laptop"
+      inscription: "[registration required](mailto:mathilde.verstraete@umontreal.ca)"
 
     - speaker :
       pause : "Aperitivo"
@@ -397,12 +399,13 @@ tab:
       time :   
 
     - speaker : "Robert Alessi (CNRS, UMR 8167 Orient & Méditerranée)"
-      subject : "Workshop - Ekdosis in a single-source publishing chain in digital critical editing"
+      subject : "Workshop - [Ekdosis](http://www.ekdosis.org/) in a single-source publishing chain in digital critical editing"
       abstract : "Whether the critical edition is digital or printed, it must preserve the traditional form of the apparatus criticus as it is inherited from over two centuries of continuous tradition. We understand it as a paragraph written in Latin with nuance and economy of style. Admittedly, this way of writing is immediately accessible to human intelligence. However, it remains incomprehensible to machines. In this workshop, we will show through concrete examples how ekdosis can be used as a starting point in a “single source publishing” editorial chain. From a simple, structured source code, ekdosis can be asked to produce two completely different outputs in a single operation: one intended for traditional printing, with fully written critical notes, and the other in the form of a TEI xml database directly interpretable by machines.<br>**For this workshop, it is recommended to have a basic knowledge of LaTeX (an interactive and step-by-step method can be found on the [LearnLatex website](https://www.learnlatex.org/)). You will also need an [Overleaf](https://www.overleaf.com/login) account or an installation of [TeXLive](https://www.tug.org/texlive/).**"
       biography : "As a research fellow, Robert Alessi holds an academic position at the French CNRS Joint Research Unit “Orient & Méditerranée” (UMR 8167, Paris, France). His research concentrates on the edition of Greek and Arabic medical texts, on the history of medicine, but also on computing applied to classical studies."
       #venue : "to be determined"
       time : "15.30 – 17.30"
       lang : "in english"
       laptop: "bring your laptop"
+      inscription: "[registration required](mailto:mathilde.verstraete@umontreal.ca)"
 
 ---
