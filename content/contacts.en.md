@@ -11,7 +11,9 @@ registration:
   enable : true
   title : "Get in touch"
   content : |
-    To contact us, please write to mathilde [point] verstraete [acomercial] umontreal [point] ca
+    The event is open to all.  
+    Let us know you'll be attending (just send us an e-mail)! It's recommended for conferences, mandatory for workshops.   
+    To contact us, please write to mathilde [point] verstraete [at] umontreal [point] ca
 
 about:
   enable : true

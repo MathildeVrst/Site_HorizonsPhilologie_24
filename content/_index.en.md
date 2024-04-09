@@ -44,9 +44,10 @@ speakers:
 registration:
   enable : true
   title : "Contact us"
-  content : |
+  content : | 
+    The event is open to all.  
     Let us know you'll be attending (just send us an e-mail)! It's recommended for conferences, mandatory for workshops.   
-    To contact us, please write to mathilde [point] verstraete [acomercial] umontreal [point] ca
+    To contact us, please write to mathilde [point] verstraete [at] umontreal [point] ca
   # form_action : "https://formspree.io/f/mnqrnvny" # works with formspree.io
 
 ############### Sponsors ##################

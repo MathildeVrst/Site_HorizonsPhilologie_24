@@ -45,6 +45,7 @@ registration:
   enable : true
   title : "Contattaci"
   content : |
+    L'evento è aperto a tutte e tutti.   
     Segnalateci la vostra presenza (con una mail)! È consigliato per le conferenze e obbligatorio per i workshop.  
     Per contattare il nostro team, scrivere a mathilde [punto] verstraete [chiocciola] umontreal [punto] ca
   # form_action : "https://formspree.io/f/mnqrnvny" # works with formspree.io

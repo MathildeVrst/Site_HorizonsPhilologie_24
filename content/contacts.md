@@ -11,7 +11,9 @@ registration:
   enable : true
   title : "Contactez-nous"
   content : |
-    Pour contacter notre équipe, veuillez écrire à mathilde [point] verstraete [acomercial] umontreal [point] ca
+    L'événement est ouvert à toutes et tous.  
+    Faites-nous part de votre présence (il suffit de nous envoyer un mail) ! C'est recommandé pour les conférences, obligatoire pour les ateliers.      
+    Pour plus d'informations, nous contacter à mathilde [point] verstraete [arobase] umontreal [point] ca.
 
 about:
   enable : true
