@@ -270,13 +270,13 @@ tab:
       laptop : "Portare il proprio computer"
       inscription : "[registrazione richiesta](mailto:mathilde.verstraete@umontreal.ca)"
 
-    - speaker :
-      pause : "Aperitivo"
-      subject :
-      abstract :
-      biografia :
-      #venue : "da determinare" 
-      time : "18.30 - 21.30"
+#    - speaker :
+#      pause : "Aperitivo"
+#      subject :
+#      abstract :
+#      biografia :
+#      #venue : "da determinare" 
+#      time : "18.30 - 21.30"
 
   # tab item
   - name : "Giorno 03"

@@ -274,13 +274,13 @@ tab:
       inscription : "[inscription obligatoire](mailto:mathilde.verstraete@umontreal.ca)"
 
 
-    - speaker :
-      pause : "Aperitivo"
-      subject :
-      abstract :
-      biography :
-      #venue : "à déterminer"    
-      time : "18h30 - 21h30"
+#    - speaker :
+#      pause : "Aperitivo"
+#      subject :
+#      abstract :
+#      biography :
+#      #venue : "à déterminer"    
+#      time : "18h30 - 21h30"
 
   # tab item
   - name : "Jour 03"

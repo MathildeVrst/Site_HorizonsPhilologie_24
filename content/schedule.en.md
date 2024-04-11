@@ -271,13 +271,13 @@ tab:
       laptop: "bring your laptop"
       inscription: "[registration required](mailto:mathilde.verstraete@umontreal.ca)"
 
-    - speaker :
-      pause : "Aperitivo"
-      subject :
-      abstract :
-      biography :
-      #venue : "to be determined"
-      time : "18.30 - 21.30"
+#    - speaker :
+#      pause : "Aperitivo"
+#      subject :
+#      abstract :
+#      biography :
+#      #venue : "to be determined"
+#      time : "18.30 - 21.30"
 
   # tab item
   - name : "Day 03"
