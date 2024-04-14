@@ -7,7 +7,7 @@
   [fr.params]
     description = "Horizons de la philologie numérique. L'Anthologie grecque pour repenser formats, paradigmes et collaboration (16-18 avril 2024, Università degli Studi di Napoli Federico II & Université de Montréal)."
     images = [ "/images/featured.png" ]
-    copyright = "Thème conçu par [Themefisher](https://themefisher.com/), développé par [Gethugothemes](https://gethugothemes.com/) et adapté par la [CRCEN](https://ecrituresnumeriques.ca)"
+    copyright = "Thème conçu par [Themefisher](https://themefisher.com/), développé par [Gethugothemes](https://gethugothemes.com/) et adapté par Mathilde Verstraete, Louis-Olivier Brassard, Roch Delannay, Margot Mellet ([CRCEN](https://ecrituresnumeriques.ca))"
     name = "Università degli Studi di Napoli Federico II"
     batiment = "Dipartimento di Studi Umanistici"
     location = "Via Porta di Massa, 1, 80133 Napoli NA" 
@@ -21,7 +21,7 @@
   [it.params]
     description = "Orizzonti della filologia digitale. L'Antologia greca per ripensare formati, paradigmi e collaborazione (16-18 aprile 2024, Università degli Studi di Napoli Federico II & Université de Montréal)."
     images = [ "/images/featured.it.png" ]
-    copyright = "Tema disegnato da [Themefisher](https://themefisher.com/), sviluppato da [Gethugothemes](https://gethugothemes.com/) e adattato da [CRCEN](https://ecrituresnumeriques.ca/en)"
+    copyright = "Tema disegnato da [Themefisher](https://themefisher.com/), sviluppato da [Gethugothemes](https://gethugothemes.com/) e adattato Mathilde Verstraete, Louis-Olivier Brassard, Roch Delannay, Margot Mellet ([CRCEN](https://ecrituresnumeriques.ca))"
     name = "Università degli Studi di Napoli Federico II"
     batiment = "Dipartimento di Studi Umanistici"
     location = "Via Porta di Massa, 1, 80133 Napoli NA"
@@ -35,7 +35,7 @@
   [en.params]
     description = "Horizons of digital philology. The Greek Anthology for rethinking formats, paradigms and collaboration (April 16-18, 2024, Università degli Studi di Napoli Federico II & Université de Montréal)"
     images = [ "/images/featured.en.png" ]
-    copyright = "Theme designed by [Themefisher](https://themefisher.com/), developed by [Gethugothemes](https://gethugothemes.com/) and adapted by [CRCEN](https://ecrituresnumeriques.ca/en)"
+    copyright = "Theme designed by [Themefisher](https://themefisher.com/), developed by [Gethugothemes](https://gethugothemes.com/) and Mathilde Verstraete, Louis-Olivier Brassard, Roch Delannay, Margot Mellet ([CRCEN](https://ecrituresnumeriques.ca))"
     name = "Università degli Studi di Napoli Federico II"
     batiment = "Dipartimento di Studi Umanistici"
     location = "Via Porta di Massa, 1, 80133 Napoli NA"

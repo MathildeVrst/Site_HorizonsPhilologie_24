@@ -21,11 +21,18 @@ about:
   img: false
   content : | 
     Cet événement est organisé par Serena Cannavale, Marcello Vitali-Rosati, Elsa Bouchard & Mathilde Verstraete. 
-    Son organisation a été rendu possible par : 
+    
+    Ce projet a pu être mené à bien grâce à la collaboration du comité organisateur :  
+    
+      - Vincenzo Casapulla, 
+      - Margot Mellet, Giulia Ferretti pour les traductions et relecture des *abstracts*, 
+      - Émile Caron pour la réalisation des différents visuels, 
+      - Louis-Olivier Brassard pour les déploiements du site Web. 
+    
+    La réalisation de cet événement a été rendue possible par : 
+
       - L'implication de la [Chaire de recherche du Canada sur les Écritures Numériques](https://www.ecrituresnumeriques.ca/fr/) (Université de Montréal) et du [Dipartimento Studi Umanistici](https://www.studiumanistici.unina.it/) (Université degli Studi di Napoli Federico II) ; 
       - Une subvention Connexion du [Conseil de recherches en sciences humaines (Canada)](https://www.sshrc-crsh.gc.ca/home-accueil-fra.aspx) ; 
       - Des appuis financiers de l'[Université de Montréal](https://www.umontreal.ca/), de la [FAS](https://fas.umontreal.ca/accueil/) (Faculté des Arts et des Sciences), du [CRIHN (Centre de recherche interuniversitaire sur les humanités numériques)](https://www.crihn.org/), du [GREN (Groupe de recherche sur les éditions critiques en contexte numérique)](https://gren.openum.ca/), du projet *Epigraphic Poetry in Ancient Campania* (PRIN PNRR 2022 -- Epigraphic Poetry in Ancient Campania -- COD. MUR P2022SFXHC), du projet *Reti* (PRIN 2022 -- RETI Rendering Texts and Images. Digital Scholarly Editions with Edition Visualization Technology -- P.I. Maria Cristina Rossi) et du *Ciclo di Seminari Ecdotica e interpretazione dei classici latini e greci: problemi di metodo in prospettiva interdisciplinare*. 
-
-    Ce site a été réalisé par Mathilde Verstraete avec l'aide de Louis-Olivier Brassard, Roch Delannay & Margot Mellet, à partir d'un thème conçu par [Themefisher](https://themefisher.com/), développé par [Gethugothemes](https://gethugothemes.com/).  
-    Le déploiement a été assuré par Louis-Olivier Brassard. Merci à Margot Mellet, Giulia Ferretti et Serena Cannavale pour leurs précieuses traductions et relectures, à Émile Caron et Yann Audin pour les visuels.
+    
 ---
