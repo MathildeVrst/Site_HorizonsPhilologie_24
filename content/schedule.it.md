@@ -43,7 +43,7 @@ tab:
       venue :
       time : "09.30 - 09.45"
 
-    - speaker : "Organizzatori"
+    - speaker : "Giulio Massimilla, Michael Sinatra, Serena Cannavale, Marcello Vitali-Rosati, Marcello Vitali-Rosati"
       subject : "Discorso di apertura"
       abstract: ""
       biografia : ""
