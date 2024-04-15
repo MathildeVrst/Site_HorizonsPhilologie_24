@@ -24,7 +24,7 @@ about:
 
     Questo progetto è stato reso possibile grazie alla collaborazione del comitato organizzatore:  
 
-      - Vincenzo Casapulla, 
+      - Vincenzo Casapulla, for the scientific and organisational collaboration, 
       - Margot Mellet, Giulia Ferretti for their translations and proofreading of the abstracts, 
       - Émile Caron for the visuals, 
       - Louis-Olivier Brassard for website deployments.  

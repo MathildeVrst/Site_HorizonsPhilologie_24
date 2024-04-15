@@ -24,7 +24,7 @@ about:
     
     Ce projet a pu être mené à bien grâce à la collaboration du comité organisateur :  
     
-      - Vincenzo Casapulla, 
+      - Vincenzo Casapulla, pour la collaboration scientifique et organisationnelle,  
       - Margot Mellet, Giulia Ferretti pour les traductions et relecture des *abstracts*, 
       - Émile Caron pour la réalisation des différents visuels, 
       - Louis-Olivier Brassard pour les déploiements du site Web. 
