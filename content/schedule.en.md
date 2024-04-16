@@ -18,7 +18,7 @@ tab:
   content : | 
     The study days take place in Via Porta di Massa 1, in the **Aula ex-cataloghi lignei** room.  
     Conferences can be followed online through [**BigBlueButton**](https://bbb.futuretic.fr/rooms/vuk-bl6-tl0-ut8/join). <!-- from home, or from the CRIHN offices (pav. Lionel-Groulx, room 8132). -->  
-    Collaborative notes are available **here (to come)** (multilingual notes and important links).
+    Collaborative notes are available [**here** (multilingual notes and important links)](https://demo.hedgedoc.org/V0MKlWxCRDmlSLE0kfopvA?both).
   tablist:
   # tab item
   - name : "Day 01"

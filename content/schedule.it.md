@@ -18,7 +18,7 @@ tab:
   content : |
     Le giornate di studio si svolgono in Via Porta di Massa 1, nell'**Aula ex-cataloghi lignei**.  
     Le relazione possono essere seguite online tramite [**BigBlueButton**](https://bbb.futuretic.fr/rooms/vuk-bl6-tl0-ut8/join). <!--  da casa o dalla sede del CRIHN (pav. Lionel-Groulx, stanza 8132).  -->  
-    È disponibile **qui (a breve)** - un pad collaborativo (note multilingue e link importanti).
+    È disponibile [**qui** - un pad collaborativo (note multilingue e link importanti)](https://demo.hedgedoc.org/V0MKlWxCRDmlSLE0kfopvA?both).
   tablist:
   # tab item
   - name : "Giorno 01"

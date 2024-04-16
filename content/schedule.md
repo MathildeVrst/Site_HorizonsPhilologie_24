@@ -20,7 +20,7 @@ tab:
   content : |
     Les journées d'étude ont lieu Via Porta di Massa 1, dans la salle **Aula ex-cataloghi lignei**.  
     Les conférences peuvent être suivies en ligne via [**BigBlueButton**](https://bbb.futuretic.fr/rooms/vuk-bl6-tl0-ut8/join). <!-- de chez soi, ou depuis les locaux du CRIHN (pav. Lionel-Groulx, salle 8132)-->  
-    Un pad collaboratif est à votre disposition **ici (à venir)** (notes multilingues et liens importants).
+    Un pad collaboratif est à votre disposition [**ici** (notes multilingues et liens importants)](https://demo.hedgedoc.org/V0MKlWxCRDmlSLE0kfopvA?both).
   tablist:
   # tab item
   - name : "Jour 01"
