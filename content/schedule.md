@@ -45,7 +45,7 @@ tab:
       venue :
       time : "09h30 - 09h45"
 
-    - speaker : "Giulio Massimilla, Michael Sinatra, Serena Cannavale, Marcello Vitali-Rosati, Marcello Vitali-Rosati"
+    - speaker : "Giulio Massimilla, Michael Sinatra, Serena Cannavale, Marcello Vitali-Rosati, Mathilde Verstraete"
       subject : "Mot de bienvenue"
       résumé :  ""
       biographie : "" 
