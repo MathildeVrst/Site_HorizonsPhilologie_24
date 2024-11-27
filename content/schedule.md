@@ -18,7 +18,7 @@ tab:
     label: "Programme à télécharger" 
     link: "https://api.nakala.fr/data/10.34847/nkl.fe4ed90w/fdfa6f5bf7c004544fc0c5b317bb04328dc4dbae" 
   content : |
-    Les journées d'étude ont lieu Via Porta di Massa 1, dans la salle **Aula ex-cataloghi lignei**.  
+    [TEST]Les journées d'étude ont lieu Via Porta di Massa 1, dans la salle **Aula ex-cataloghi lignei**.  
     Les conférences peuvent être suivies en ligne via [**BigBlueButton**](https://bbb.futuretic.fr/rooms/vuk-bl6-tl0-ut8/join). <!-- de chez soi, ou depuis les locaux du CRIHN (pav. Lionel-Groulx, salle 8132)-->  
     Un pad collaboratif est à votre disposition [**ici** (notes multilingues et liens importants)](https://demo.hedgedoc.org/V0MKlWxCRDmlSLE0kfopvA?both).
   tablist:
