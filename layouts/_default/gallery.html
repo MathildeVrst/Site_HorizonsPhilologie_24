@@ -4,7 +4,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
-				<div class="controls">
+				<!-- <div class="controls">
 					<button type="button" class="control mixitup-control-active" data-filter="all">All</button>
 					{{ $categories := slice }}
 					{{ range .Params.gallery_items }}
@@ -15,7 +15,7 @@
 					{{ range ( $categories | uniq ) }}
 					<button type="button" class="control" data-filter=".{{ . | urlize }}">{{ . | humanize }}</button>
 					{{ end }}
-				</div>
+				</div> -->
 				<div class="gallery-wrapper">
 					{{ range .Params.gallery_items }}
 					<div class="gallery-item mix {{range .categories }}{{. | urlize}} {{ end }}">
